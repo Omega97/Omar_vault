@@ -12,13 +12,13 @@ Un gioco di bluff, strategia e "portate" indigeste per 4-8 giocatori.
 - **Distribuzione**: Si inizia con **6 carte** a testa. Le carte sono segrete.
 
 
-🔹*Nota: se siete in pochi, potete cominciare con 6 carte.*
+🔹*Nota: se siete in pochi, potete cominciare con più carte, e viceversa.*
 
 ---
 
 ## 🎯 L'Obiettivo
 
-Dichiarare combinazioni di carte (*Il Piatto*: *Portata* e *Contorno*) dal valore sempre più alto, senza venire smascherati.
+Dichiarare combinazioni di carte (*"Le Portate": *"Il Primo"* e *"Il Secondo"*) dal valore sempre più alto, senza venire smascherati.
 
 ---
 
@@ -26,20 +26,15 @@ Dichiarare combinazioni di carte (*Il Piatto*: *Portata* e *Contorno*) dal valor
 
 Ogni turno, il giocatore deve scegliere una delle seguenti mosse:
 
-1. **L'Ordinazione** 🍜: La primissima mossa della mano. Si dichiara obbligatoriamente **una sola carta** (es: _"Un 10"_). Questa costituisce la **Portata**, che è la combinazione principale.
+1. **L'Ordinazione** 🍜: Aggiungi un nuovo *Piatto* (combinazione di carte uguali) con **esattamente una carta** (es: "Un K"), fino ad un massimo di 2 (*Primo* e *Secondo*).
     
-2. **Speziare**: Alzare il **rango** (valore) della *Portata* o del *Contorno* mantenendo la stessa quantità (es: da _"Due 10"_ a _"Due Re"_, oppure da _"Due Re"_ a _"Due Assi"_). Il valore delle carte va dal 2 all'Asso.
+2. **Speziare** 🌶: Alzare il **rango** di uno dei piatti. I ranghi vanno dal 2 all'Asso.
     
-3. **Abbondare**: Aumentare la **quantità** della *Portata* o del *Contorno* di **esattamente 1 carta** (es: da _"Due Re"_ a _"Tre 2"_). Non si possono saltare numeri.
+3. **Abbondare** 🍱: +1 carta ad uno dei *piatti*
     
-4. **Impiattare 🍤**: Aggiungere il **Contorno** (una seconda combinazione di supporto).
-    
-    - Il *Contorno* deve avere **sia il rango che la quantità diversi** dalla *Portata* (es: Portata "Tre 5", Contorno "Due Assi"). Quindi avrà sempre meno carte della *Portata*, e puoi *impiattare* solo una volta che la *Portata* è composta da almeno 2 carte.
-    - Quando impiatti, aggiungi solo una carta al piatto (es: "Tre A" -> "Tre A e Un K")
+4. Se hai due piatti con lo stesso rango, vanno uniti (es: "Due Assi e un 2" -> "Tre Assi", non "Due Assi e un Asso")
     
 5. _**"Il conto, prego!"**_: L'esclamazione per dubitare. Si ferma il gioco e si verificano le mani di tutti i giocatori.
-
-🔹*Nota: Puoi modificare solo la Portata **o** il Contorno. ("Due 5 e un Asso" -> "Due 7 e un Asso" -> "Tre 5 e un Asso" -> "Tre 5 e due 2")
 
 ---
 
@@ -47,9 +42,9 @@ Ogni turno, il giocatore deve scegliere una delle seguenti mosse:
 
 I Jolly sono **Wild**: valgono come qualsiasi carta.
 
-> _Esempio_: Se la scommessa è "Tre Assi e due 5" e a tavola ci sono effettivamente due Assi, un 5 e due Jolly, la scommessa è **vera** (i Jolly coprono i pezzi mancanti).
+> _Esempio_: Se la scommessa è "Tre Assi e due 5" e a tavola ci sono solo due Assi, un 5, e due Jolly, la scommessa è **vera** (i Jolly coprono i pezzi mancanti).
 
-**Il Dolce** è costituito da tutti i Jolly che hai dovuto usare per arrivare a comporre il *Piatto* (*Portata* e *Contorno*).
+**Il Dolce** è costituito da tutti i Jolly che hai dovuto usare per arrivare a comporre le Portate (*Primo* e *Secondo*).
 
 ---
 
@@ -63,35 +58,24 @@ Quando un giocatore esclama **"Il conto, prego!"**, tutti i commensali scoprono 
 
 ---
 
-### 🤯 "Il Coperto"
+## 🤯 Il "Coperto" e l'"Omaggio"
 
+Quando una mano si è conclusa:
 
-#### **Penalità Standard** 💸
-Chi perde la mano, nei round successivi riceverà il "*coperto*"; **2 carta in più** rispetto a prima (es: se prima ne aveva 6, ora ne avrà 8). Questo gli dà più informazioni, e rende la partita ancora più caotica.
-
-#### **Lo Sconto** 🃏 
-Se la scommessa risulta vera **solo grazie al "Dolce" (uno o più Jolly**), la penalità è ridotta a **+1 carta** extra.
+- Il giocatore che ha fatto la dichiarazione VERA riceve un "Omaggio".
+    
+- Viceversa, chi ha fatto la dichiarazione FALSA riceverà un "*Coperto*".
+    
+- Omaggi e Coperti sono cumulativi, e a inizio mano peschi **1 carta in più** per ogni Omaggio, e **1 carta in meno** per ogni Coperto.
 
 ---
 
 ## 🏁 Fine Partita e Classifica
 
-La partita termina istantaneamente quando si incontra una certa condizione predeterminata.
+La partita termina in uno dei due casi: 
 
-
-**Esempi**: 
-
-- Si raggiunge 20 mani.
+- Quando un giocatore resta senza carte, e c'è un unico giocatore con il maggior numero di *omaggi*.
     
-- Un giocatore deve pagare 3 *coperti*.
-    
-- Tutti tranne uno devono pagare il coperto.
+- Quando si è raggiunto un limite prestabilito di mani.
 
-Quando la partita finisce, si decide la classifica in base a quanti coperti deve pagare ciascuno.
-
----
-
-### 💡 Nota Tattica per i Giocatori
-
-Il vincolo sulle quantità diverse del **Contorno** crea un "imbuto logico". Se la Portata è di "Due 10", non puoi aggiungere un Contorno di "Due 4" (le quantità devono essere diverse). Questo costringe i giocatori a ragionare bene prima di "Abbondare" o "Impiattare", rendendo ogni mossa cruciale per non restare incastrati!
-
+A fine partita, si decide la classifica in base a quanti omaggi e coperti ha accumulato ciascun giocatore. 🏆
