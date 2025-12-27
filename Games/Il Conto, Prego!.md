@@ -34,27 +34,27 @@ Ogni turno, il giocatore deve scegliere una delle seguenti mosse:
     
 4. Se hai due piatti con lo stesso rango, vanno uniti (es: "Due Assi e un 2" -> "Tre Assi", non "Due Assi e un Asso")
     
-5. _**"Il conto, prego!"**_: L'esclamazione per dubitare. Si ferma il gioco e si verificano le mani di tutti i giocatori.
+5. _**"Il conto, prego!"**_ 👨‍🍳🍽: L'esclamazione per dubitare. Se lo fai sei *"Il Capotavola"*, e il giocatore precedente è *"Il Cameriere"*. Si ferma il gioco e si verificano le mani di tutti i giocatori.
 
 ---
 
-## 🍦 "Il Dolce" 
+### 🍦 "Il Dolce" 
 
 I Jolly sono **Wild**: valgono come qualsiasi carta.
 
-> _Esempio_: Se la scommessa è "Tre Assi e due 5" e a tavola ci sono solo due Assi, un 5, e due Jolly, la scommessa è **vera** (i Jolly coprono i pezzi mancanti).
+> _Esempio_: Se la scommessa è *"Tre Assi e due 5"* e a tavola ci sono solo due Assi, un 5, e due Jolly, la scommessa è **vera** (i Jolly coprono i pezzi mancanti).
 
 **Il Dolce** è costituito da tutti i Jolly che hai dovuto usare per arrivare a comporre le Portate (*Primo* e *Secondo*).
 
 ---
 
-## 🧾 La Verifica e il "Pagare il Conto"
+## 🧾 Chiedere il Conto
 
-Quando un giocatore esclama **"Il conto, prego!"**, tutti i commensali scoprono le proprie carte sul tavolo:
+Quando un giocatore esclama ***"Il conto, prego!"***, tutti i commensali scoprono le proprie carte sul tavolo, e cercano di comporre i *Piatti* chiamati dal *Cameriere*;
 
-- **Se la dichiarazione è FALSA**: Anche se manca solo una carta di una delle due combinazioni, chi ha dichiarato per ultimo perde la mano.
+- **Se si riesce a comporre i piatti**: il *Capotavola* perde la mano, e il *Cameriere* vince. Viceversa:
     
-- **Se la dichiarazione è VERA**: Chi ha chiesto il conto si è sbagliato e perde la mano.
+- **se NON si riesce a comporre i piatti**: il *Cameriere* perde la mano, e il *Capotavola* vince.
 
 ---
 
@@ -62,20 +62,21 @@ Quando un giocatore esclama **"Il conto, prego!"**, tutti i commensali scoprono 
 
 Quando una mano si è conclusa:
 
-- Il giocatore che ha fatto la dichiarazione VERA riceve un "Omaggio".
+- Il giocatore che ha vinto la mano riceve un "*Omaggio*" (+1 punto).
     
-- Viceversa, chi ha fatto la dichiarazione FALSA riceverà un "*Coperto*".
+- Viceversa, chi ha perso la mano riceve un "*Coperto*" (-1 punto).
+
+
+#### Varianti
+
+- Se hai vinto la mano precedente se "L'Oste", e a inizio mano peschi **1 carta in più**. 
     
-- Omaggi e Coperti sono cumulativi, e a inizio mano peschi **1 carta in più** per ogni Omaggio, e **1 carta in meno** per ogni Coperto.
+- A inizio mano peschi **1 carta in più** per ogni Omaggio, e **1 carta in meno** per ogni Coperto (Puoi anche scegliere se gli Omaggi e i Coperti sono cumulativi oppure no).
 
 ---
 
 ## 🏁 Fine Partita e Classifica
 
-La partita termina in uno dei due casi: 
-
-- Quando un giocatore resta senza carte, e c'è un unico giocatore con il maggior numero di *omaggi*.
-    
-- Quando si è raggiunto un limite prestabilito di mani.
+La partita termina quando si raggiunge un limite prestabilito di mani.
 
 A fine partita, si decide la classifica in base a quanti omaggi e coperti ha accumulato ciascun giocatore. 🏆
