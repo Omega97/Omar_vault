@@ -9,10 +9,9 @@ Un gioco *push-your-luck* con bluff, strategia e *portate* per 3-8 giocatori.
     
 - **Giocatori**: Da 3 a 8 (il caos aumenta con il numero di commensali).
     
-- **Distribuzione**: Si inizia con **6 carte** a testa. Le carte sono segrete.
+- **Distribuzione**: Si inizia con **6 carte** a testa. Le carte sono segrete, e vengono rivelate solo a fine mano.
 
-
-🔹*Nota: se siete in tanti, potete cominciare con più 5 carte.*
+🔹*Nota: se siete in tanti, potete scegliere di cominciare invece con 5 carte.*
 
 ---
 
@@ -28,15 +27,19 @@ Chi ha vinto la mano fa il mazziere, e distribuisce le mani.
 Apre la mano il giocatore a sinistra del mazziere, e si procede in senso orario.
 Ogni turno, il giocatore deve scegliere una delle seguenti **mosse**:
 
-1. **L'Ordinazione** 🍜: Aggiungi un nuovo *Piatto* (combinazione di carte uguali) con **esattamente una carta**, fino ad un massimo di 2 (*Primo* e *Secondo*). (es: cominci chiamando "Un K", oppure aggiungi il Secondo "Due Assi" -> "Due Assi e un 3")
+1. **L'Ordinazione** 🍜: Aggiungi una nuova *Portata* (combinazione di carte uguali) con **esattamente una carta**. Possono esserci fino a **due portate** (*Primo* e *Secondo*). 
+   (Es *Primo*:  "Un K". Es Secondo: "Due Assi" -> "Due Assi e un 3")
     
-2. **Speziare** 🌶: Alzare a piacere il **rango** di uno dei piatti. I ranghi vanno dal 2 all'Asso. (es: "Un K" -> "Un Asso", "Due 6" -> "Due 10", "Tre 2" -> "Tre Assi")
+2. **Speziare** 🌶: Alzare a piacere il **rango** di una delle *portate*. I ranghi vanno dal 2 all'Asso. 
+   (es: "Un K" -> "Un Asso", "Due 6" -> "Due 10", "Tre 2" -> "Tre Assi")
     
-3. **Abbondare** 🍱: +1 carta ad uno dei *piatti*, e puoi cambiare l'*Ingrediente* (rango). (es: "Un K" -> "Due Assi", o "Un K" -> "Due 7")
+3. **Abbondare** 🍚: +1 carta ad una delle *portate*, e puoi cambiare l'*ingrediente* (rango). 
+   (es: "Un K" -> "Due Assi", o "Un K" -> "Due 7")
     
-4. _**"Il conto, prego!"**_ 👨‍🍳🍽: L'esclamazione per dubitare. Se lo fai sei *Il Capotavola*, e il giocatore precedente è *Il Cameriere*. Si ferma il gioco e si verificano le mani di tutti i giocatori.
+4. _**"Il conto, prego!"**_ 🧾: L'esclamazione per dubitare. Se lo fai sei *Il Capotavola*, e il giocatore precedente è *Il Cameriere*. Si ferma il gioco e si verificano le mani di tutti i giocatori.
 
- **Regola dell'unione**: Se hai due piatti con lo stesso *Ingrediente* (rango), vanno uniti (es: "Due Assi e un 2" -> "Tre Assi", non "Due Assi e un Asso")
+ **Regola della Varietà 🍱**: Non puoi chiamare un *ingrediente* (rango) già usato in un'altra *portata*. 
+ (es: dopo "Un J e un K" non puoi chiamare "Un K e un K"; le *portate* devono essere di ranghi diversi)
 
 🔹*Nota: In nessun momento devi giocare/scartare le carte che hai in mano. Le carte ti danno informazioni sugli ingredienti in gioco, e servono per la verifica finale.*
 🔹*Nota: Non puoi passare il turno*.
@@ -55,36 +58,25 @@ I Jolly sono **Wild**: valgono come qualsiasi carta.
 
 ## 🧾 Vincere la Mano
 
-Quando un giocatore esclama ***"Il conto, prego!"***, tutti i commensali scoprono le proprie carte sul tavolo, e cercano di comporre i *Piatti* chiamati dal *Cameriere*, **usando le carte di tutti**.
+Quando un giocatore esclama ***"Il conto, prego!"***, tutti i commensali scoprono le proprie carte sul tavolo, e cercano di comporre le *portate* chiamate dal *Cameriere*, **usando le carte di tutti**.
 
-- **Se si riesce a comporre i piatti**: il *Capotavola* perde la mano, e il *Cameriere* vince. Viceversa:
+- **Se si riesce a comporre le portate**, il *Capotavola* **perde** la mano, e tutti gli altri **vincono**.
     
-- **se NON si riesce a comporre i piatti**: il *Cameriere* perde la mano, e il *Capotavola* vince.
+- **Se NON si riesce a comporre le portate**, il *Cameriere* **perde** la mano, e tutti gli altri **vincono**.
 
 ---
 
 ## 🏆 Premi e Penitenze
 
-Quando una mano si è conclusa:
+Prima di cominciare il gioco, puoi scegliere quali delle seguenti regole applicare a fine mano:
 
-- Se hai vinto la mano precedente sei L'Oste, e inizi la mano con **1 carta in più**.
+- Di base, la partita termina quando si raggiunge un limite prestabilito di mani.
     
-- Il giocatore che ha vinto la mano riceve un *Omaggio*.
+- **Regola dell'Oste**: Se hai vinto la mano precedente sei *L'Oste*. Nella prossima mano sarai il mazziere. Se hai vinto senza usare il *dolce* (i Jolly), comincerai la mano con una **carta in più**.
     
-- Viceversa, chi ha perso la mano riceve un *Coperto*.
-
-
-#### Variante
- 
-- A inizio mano peschi **1 carta in più** per ogni *omaggio*, e **1 carta in meno** per ogni *coperto* (Puoi anche scegliere se gli Omaggi e i Coperti sono cumulativi oppure no). Se arrivi a zero carte, hai perso.
-
----
-
-## 🏁 Fine Partita e Classifica
-
-La partita termina quando si raggiunge un limite prestabilito di mani.
-
-A fine partita, si decide la classifica in base a quanti omaggi e coperti ha accumulato ciascun giocatore. 
+- **Regola del Saldo**: Ogni volta che perdi la mano, si aggiunge un *Saldo* alla tua lista. A inizio partita, dovrai scartare una carta per ogni *Saldo* sul tuo conto. Chi resta senza carte, **viene eliminato** dalla partita.
+    
+- **Regola degli Omaggi**: Ogni volta che chiami *il conto* e vinci, si aggiunge un *Omaggio* alla tua lista. A inizio partita, pescherai una carta in più per ogni *omaggio* e poi ne scarti altrettante a faccia in giù. Chi arriva per primo a un certo numero di omaggi, **vince la partita**.
 
 ---
 
