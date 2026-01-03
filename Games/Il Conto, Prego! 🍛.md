@@ -21,7 +21,7 @@ A turno dichiara una o due combinazioni di carte dello stesso valore e rivela ob
 
 ## 🗣 Chiamare i Piatti
 
-> Ogni turno potrai scegliere di *chiamare dei piatti*. Questa è la meccanica base del gioco, e consiste nei seguenti passaggi: 
+> Questa è la meccanica base del gioco. Ogni turno potrai scegliere di *chiamare dei piatti*. Devi possedere **almeno una carta appartenente a una delle portate chiamate**, e devi rivelarne una (non Jolly). *Chiamare i piatti* consiste nei seguenti passaggi: 
 
 - All'inizio del tuo turno, recupera la carta che hai eventualmente rivelato in precedenza (aggiungila di nuovo alla tua mano, nascosta agli altri giocatori).
     
@@ -61,7 +61,7 @@ A turno dichiara una o due combinazioni di carte dello stesso valore e rivela ob
 
 #### 2. **Speziare** 🌶 
 
-> Alzare a piacere il **rango** di una delle *portate*. I ranghi vanno dal 2 all'Asso. I Jolly sono valgono come qualsiasi carta, ma, ovviamente, non si possono chiamare.
+> Alzare a piacere il **rango** di una delle *portate*. I ranghi vanno dal 2 all'Asso. I Jolly sono valgono come qualsiasi carta, ma, ovviamente, non si possono chiamare. Speziare non modifica il numero di carte della portata.
 
 Esempi:
 * Il giocatore prima di te ha chiamato "Due 10". Puoi *speziare* alzando il rango del *primo*: $$\text{"Due Assi" (riveli un Asso)}$$
@@ -69,7 +69,7 @@ Esempi:
 
 #### 3. **Abbondare** 🍚
 
-> Aggiungere **esattamente una carta** ad una delle *portate*. Puoi cambiare l'*ingrediente* (rango) di quella *portata*.
+> Aggiungere **esattamente una carta** ad una delle *portate*. Quando abbondi una portata, **il rango precedente viene completamente sostituito**.
 
 * Il giocatore prima di te ha chiamato "Un 10". Puoi *abbondare* chiamando un tris: $$\text{"Due Regine"}$$
 * Il giocatore prima di te ha chiamato "Due 9 e due 4".  Puoi *abbondare* il *secondo* chiamando: $$\text{"Due 9 e tre 2"}$$
@@ -78,7 +78,7 @@ Esempi:
 #### 4. _**Chiedere il Conto**_ 🧾
 
 > L'esclamazione per dubitare il giocatore precedente: $$\text{Il conto, prego!}$$
-> Lo fai quando non pensi che tra le carte di **tutti i giocatori** ci sia l'ultima combinazione dichiarata. Se fai questa mossa sei *il capotavola*, e il giocatore precedente è *il cameriere*. Si ferma il gioco, e si verificano le mani di **tutti** i giocatori (vedi [[Il Conto, Prego! 🍛#🧾 Vincere la Mano|Vincere la Mano]]).
+> Lo fai quando non pensi che tra le carte di **tutti i giocatori** ci sia l'ultima combinazione dichiarata. Se fai questa mossa sei *il capotavola*. L'ultimo giocatore ad aver *chiamato un piatto* è *il cameriere*. Si ferma il gioco, e si verificano le mani di **tutti** i giocatori (vedi [[Il Conto, Prego! 🍛#🧾 Vincere la Mano|Vincere la Mano]]).
 
 
 🔹*Nota: Non puoi passare il turno, ma non sei costretto a chiamare carte che hai in mano. A parte il Jolly, puoi chiamare tutto quello che vuoi, purché rispetti le regole.*
