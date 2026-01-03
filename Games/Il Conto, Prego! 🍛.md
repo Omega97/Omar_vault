@@ -9,9 +9,7 @@ Un gioco *push-your-luck* con bluff, strategia e *portate* per 3-8 giocatori.
     
 - **Giocatori**: Da 3 a 8 (il caos aumenta con il numero di commensali).
     
-- **Distribuzione**: Si inizia con **6 carte** a testa. Le carte sono segrete, e vengono rivelate solo a fine mano.
-
-🔹*Nota: se siete in tanti, potete scegliere di cominciare invece con 5 carte.*
+- **Distribuzione**: Si inizia con **6 carte** a testa. Le carte sono segrete, e vengono rivelate solo a fine mano. Se siete in tanti (6+), potete scegliere di cominciare invece invece con 5 carte.
 
 ---
 
@@ -21,48 +19,56 @@ Dichiarare combinazioni di carte dal valore sempre più alto, senza venire smasc
 
 ---
 
-## 👨‍🍳 Il Glossario dello Chef (Azioni di Gioco)
+## 👨‍🍳 Azioni di Gioco (Il Glossario dello Chef)
 
-Chi ha vinto la mano fa il mazziere, e distribuisce le mani.
-Apre la mano il giocatore a sinistra del mazziere, e si procede in senso orario.
-Ogni turno, il giocatore deve scegliere una delle seguenti **mosse**:
+Il mazziere, e distribuisce le mani. Apre la mano il giocatore a sinistra del mazziere, e si procede in senso orario. Ogni turno, il giocatore deve scegliere una delle seguenti **mosse**:
 
-1. **L'Ordinazione** 🍜: Aggiungi una nuova *Portata* (combinazione di carte uguali) con **esattamente una carta**. Possono esserci fino a **due portate** (*Primo* e *Secondo*). 
-   (Es *Primo*:  "Un K". Es Secondo: "Due Assi" -> "Due Assi e un 3")
-    
-2. **Speziare** 🌶: Alzare a piacere il **rango** di una delle *portate*. I ranghi vanno dal 2 all'Asso. 
-   (es: "Un K" -> "Un Asso", "Due 6" -> "Due 10", "Tre 2" -> "Tre Assi")
-    
-3. **Abbondare** 🍚: +1 carta ad una delle *portate*, e puoi cambiare l'*ingrediente* (rango). 
-   (es: "Un K" -> "Due Assi", o "Un K" -> "Due 7")
-    
-4. _**"Il conto, prego!"**_ 🧾: L'esclamazione per dubitare. Se lo fai sei *Il Capotavola*, e il giocatore precedente è *Il Cameriere*. Si ferma il gioco e si verificano le mani di tutti i giocatori.
+#### 1. **L'Ordinazione** 🍜
 
- **Regola della Varietà 🍱**: Non puoi chiamare un *ingrediente* (rango) già usato in un'altra *portata*. 
- (es: dopo "Un J e un K" non puoi chiamare "Un K e un K"; le *portate* devono essere di ranghi diversi)
+> Aggiungi una nuova *portata* (combinazione di carte uguali) con **esattamente due carte**. Possono esserci fino a **due portate** (*Primo* e *Secondo*). 
 
+Esempi:
+* Sei il primo a giocare; puoi chiamare *il primo*:   $$\text{"Due Re"}$$
+* Il giocatore prima di te ha chiamato "Due 10". Puoi chiamare *il secondo*, aggiungendolo al *primo*:   $$\text{"Due 10 e due 7"}$$
+
+#### 2. **Speziare** 🌶 
+
+> Alzare a piacere il **rango** di una delle *portate*. I ranghi vanno dal 2 all'Asso. I Jolly sono valgono come qualsiasi carta, ma, ovviamente, non si possono chiamare.
+
+Esempi:
+* Il giocatore prima di te ha chiamato "Due 10". Puoi *speziare* alzando il rango del *primo*: $$\text{"Due Assi"}$$
+* Il giocatore prima di te ha chiamato "Due 3 e due 4".  Puoi *speziare* alzando il rango del *secondo*: $$\text{"Due 3 e due 7"}$$
+
+#### 3. **Abbondare** 🍚
+
+> Aggiungere **esattamente una carta** ad una delle *portate*. Puoi cambiare l'*ingrediente* (rango) di quella *portata*.
+
+* Il giocatore prima di te ha chiamato "Due 10". Puoi *abbondare* chiamando un tris: $$\text{"Tre Regine"}$$
+* Il giocatore prima di te ha chiamato "Due 9 e due 4".  Puoi *abbondare* il *secondo* chiamando: $$\text{"Due 9 e tre 2"}$$
+#### 4. _**Chiedere il Conto**_ 🧾
+
+> L'esclamazione per dubitare il giocatore precedente: $$\text{Il conto, prego!}$$
+> Lo fai quando non pensi che tra le carte di **tutti i giocatori** ci sia l'ultima combinazione dichiarata. Se fai questa mossa sei *il capotavola*, e il giocatore precedente è *il cameriere*. Si ferma il gioco, e si verificano le mani di **tutti** i giocatori (vedi [[Il Conto, Prego! 🍛#🧾 Vincere la Mano|Vincere la Mano]]).
+
+
+
+ **Regola della Varietà 🍱**: Non puoi chiamare due *portate* con lo stesso *ingrediente* (rango)
+ (es: non puoi chiamare "Due 6 e Due 6"; le *portate* devono essere di ranghi diversi)
+
+
+🔹*Nota: Non sei costretto a chiamare carte che hai in mano. A parte il Jolly, puoi chiamare tutto quello che vuoi, purché rispetti le regole.
 🔹*Nota: In nessun momento devi giocare/scartare le carte che hai in mano. Le carte ti danno informazioni sugli ingredienti in gioco, e servono per la verifica finale.*
 🔹*Nota: Non puoi passare il turno*.
 
 ---
 
-### 🍦 Il Dolce
-
-I Jolly sono **Wild**: valgono come qualsiasi carta.
-
-> _Esempio_: Se la scommessa è *"Tre Assi e due 5"* e a tavola ci sono solo due Assi, un 5, e due Jolly, la scommessa è **vera** (i Jolly coprono i pezzi mancanti).
-
-**Il Dolce** è costituito da tutti i Jolly che hai dovuto usare per arrivare a comporre le Portate (*Primo* e *Secondo*).
-
----
-
 ## 🧾 Vincere la Mano
 
-Quando un giocatore esclama ***"Il conto, prego!"***, tutti i commensali scoprono le proprie carte sul tavolo, e cercano di comporre le *portate* chiamate dal *Cameriere*, **usando le carte di tutti**.
+> Quando un giocatore esclama ***"Il conto, prego!"***, tutti i commensali scoprono le proprie carte sul tavolo, e cercano di comporre le *portate* chiamate dal *Cameriere*, **usando le carte di tutti**.
 
-- **Se si riesce a comporre le portate**, il *Capotavola* **perde** la mano, e tutti gli altri **vincono**.
+- ✅ **Se si riesce a comporre le portate**, il *Capotavola* **perde** la mano, e tutti gli altri **vincono**.
     
-- **Se NON si riesce a comporre le portate**, il *Cameriere* **perde** la mano, e tutti gli altri **vincono**.
+- ❌ **Se NON si riesce a comporre le portate**, il *Cameriere* **perde** la mano, e tutti gli altri **vincono**.
 
 ---
 
@@ -70,7 +76,7 @@ Quando un giocatore esclama ***"Il conto, prego!"***, tutti i commensali scopron
 
 Prima di cominciare il gioco, puoi scegliere quali delle seguenti regole applicare a fine mano:
 
-- Di base, la partita termina quando si raggiunge un limite prestabilito di mani.
+- Di base, la partita termina quando si raggiunge un limite prestabilito di mani. Vince il gioco chi ha perso meno volte.
     
 - **Regola dell'Oste**: Se hai vinto la mano precedente sei *L'Oste*. Nella prossima mano sarai il mazziere. Se hai vinto senza usare il *dolce* (i Jolly), comincerai la mano con una **carta in più**.
     
@@ -80,27 +86,56 @@ Prima di cominciare il gioco, puoi scegliere quali delle seguenti regole applica
 
 ---
 
-## ✋ Esempio di una Mano
+## Esempi di Mano ✋ 
 
-Mani:
-A - 2 6 7 7 T Q
+
+### Esempio 1
+
+**Mani**:
+A - 2 6 7 T Q Q
 B - 4 4 T T K W
 C - 3 5 7 J J A
 D - 2 3 4 9 K A
 
-| Turno | Giocatore | Dichiarazione          | Azione                |
-| ----- | --------- | ---------------------- | --------------------- |
-| 1     | A         | "Un Q"                 | Ordinazione (Primo)   |
-| 2     | B         | "Un A"                 | Speziare              |
-| 3     | C         | "Due A"                | Abbondare             |
-| 4     | D         | "Due A e Un K"         | Ordinazione (Secondo) |
-| 5     | A         | "Tre 7 e Un K"         | Abbondare             |
-| 6     | B         | "Tre 7 e Due 10"       | Abbondare             |
-| 7     | C         | "Quattro 7 e Due 10"   | Abbondare             |
-| 8     | D         | "Quattro 7 e Due K"    | Speziare              |
-| 9     | A         | "Quattro 7 e Tre 10"   | Abbondare             |
-| 10    | B         | **"Il conto, prego!"** | Dubbio!               |
+| Turno | Giocatore | Azione              | Dichiarazione          |
+| ----- | --------- | ------------------- | ---------------------- |
+| 1     | A         | Ordina il *primo*   | "Due Q"                |
+| 2     | B         | Speziare            | "Due K"                |
+| 3     | C         | Speziare            | "Due A"                |
+| 4     | D         | Ordina il *secondo* | "Due A e Due K"        |
+| 5     | A         | Abbondare           | "Due A e Tre 7"        |
+| 6     | B         | Abbondare           | "Due A e Tre 10"       |
+| 7     | C         | Abbondare           | "Due A e Tre J"        |
+| 8     | D         | Chiedere *il conto* | **"Il conto, prego!"** |
 
-Ci sono tre 7, tre T, e un Jolly, quindi **A** non ha mentito. 
-**B** ha perso la mano.
-**A** ha vinto la mano, ed è il nuovo l'*Oste*.
+Tutti i giocatori rivelano la propria mano, e cercano di comporre *"Due A e Tre J"*.
+Ci sono in tutto: 
+- due Assi,
+- due J, e
+- un Jolly,
+quindi *il capotavola* (giocatore D) ha fatto la chiamata giusta, e *il cameriere* (giocatore C) ha perso la mano.
+
+---
+
+### Esempio 2
+
+**Mani**:
+A - 2 3 3 5 9 A
+B - 6 7 9 J Q Q
+C - 2 4 5 6 9 A
+
+| Turno | Giocatore | Azione              | Dichiarazione          |
+| ----- | --------- | ------------------- | ---------------------- |
+| 1     | A         | Ordina il *primo*   | "Due 3"                |
+| 2     | B         | Speziare            | "Due Q"                |
+| 3     | C         | Speziare            | "Due Q e due 3"        |
+| 4     | A         | Ordina il *secondo* | "Due A e due 3"        |
+| 5     | B         | Abbondare           | "Due A e due Q"        |
+| 6     | C         | Abbondare           | "Tre A e due Q"        |
+| 8     | A         | Chiedere *il conto* | **"Il conto, prego!"** |
+
+Tutti i giocatori rivelano la propria mano, e cercano di comporre *"Tre A e due Q"*.
+In tutto ci sono solo: 
+- due Assi, e
+- due Q,
+quindi *il capotavola* (giocatore A) ha fatto la chiamata sbagliata, e ha perso la mano, mentre *il cameriere* (giocatore C) e tutti gli altri hanno vinto.
