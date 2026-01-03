@@ -52,13 +52,13 @@ Esempi:
 
 
 
- **Regola della Varietà 🍱**: Non puoi chiamare due *portate* con lo stesso *ingrediente* (rango)
+ **Regola della Varietà 🍱**: Non puoi chiamare due *portate* con lo stesso *ingrediente* (rango).
  (es: non puoi chiamare "Due 6 e Due 6"; le *portate* devono essere di ranghi diversi)
 
 
-🔹*Nota: Non sei costretto a chiamare carte che hai in mano. A parte il Jolly, puoi chiamare tutto quello che vuoi, purché rispetti le regole.
+🔹*Nota: Non puoi passare il turno, ma non sei costretto a chiamare carte che hai in mano. A parte il Jolly, puoi chiamare tutto quello che vuoi, purché rispetti le regole.*
+
 🔹*Nota: In nessun momento devi giocare/scartare le carte che hai in mano. Le carte ti danno informazioni sugli ingredienti in gioco, e servono per la verifica finale.*
-🔹*Nota: Non puoi passare il turno*.
 
 ---
 
@@ -86,16 +86,16 @@ Prima di cominciare il gioco, puoi scegliere quali delle seguenti regole applica
 
 ---
 
-## Esempi di Mano ✋ 
+## ✋ Esempi di Mano
 
 
 ### Esempio 1
 
 **Mani**:
-A - 2 6 7 T Q Q
-B - 4 4 T T K W
-C - 3 5 7 J J A
-D - 2 3 4 9 K A
+	A - 2 6 7 T Q Q
+	B - 4 4 T T K W
+	C - 3 5 7 J J A
+	D - 2 3 4 9 K A
 
 | Turno | Giocatore | Azione              | Dichiarazione          |
 | ----- | --------- | ------------------- | ---------------------- |
@@ -113,16 +113,16 @@ Ci sono in tutto:
 - due Assi,
 - due J, e
 - un Jolly,
-quindi *il capotavola* (giocatore D) ha fatto la chiamata giusta, e *il cameriere* (giocatore C) ha perso la mano.
+quindi *il capotavola* (giocatore D) ha fatto la chiamata giusta ✅, e *il cameriere* (giocatore C) ha perso la mano ❌.
 
 ---
 
 ### Esempio 2
 
 **Mani**:
-A - 2 3 3 5 9 A
-B - 6 7 9 J Q Q
-C - 2 4 5 6 9 A
+	A - 2 3 3 5 9 A
+	B - 6 7 9 J Q Q
+	C - 2 4 5 6 9 A
 
 | Turno | Giocatore | Azione              | Dichiarazione          |
 | ----- | --------- | ------------------- | ---------------------- |
@@ -138,4 +138,4 @@ Tutti i giocatori rivelano la propria mano, e cercano di comporre *"Tre A e due 
 In tutto ci sono solo: 
 - due Assi, e
 - due Q,
-quindi *il capotavola* (giocatore A) ha fatto la chiamata sbagliata, e ha perso la mano, mentre *il cameriere* (giocatore C) e tutti gli altri hanno vinto.
+quindi *il capotavola* (giocatore A) ha fatto la chiamata sbagliata ❌, e ha perso la mano, mentre *il cameriere* (giocatore C) e tutti gli altri hanno vinto ✅.
