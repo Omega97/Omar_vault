@@ -13,9 +13,9 @@ Un gioco *push-your-luck* con bluff, strategia e *portate* per 3-8 giocatori.
 
 ---
 
-## 🎯 L'Obiettivo
+## 🎯 Il Gioco in Breve
 
-Dichiarare combinazioni di carte dal valore sempre più alto, senza venire smascherati.
+A turno dichiara una o due combinazioni di carte dello stesso valore e rivela obbligatoriamente una carta corrispondente dalla tua mano, ad esclusione dei Jolly. Puoi iniziare una nuova portata da una sola carta, alzare il rango di una esistente o aumentarne la quantità aggiungendo una carta alla volta. Se non credi all'ultima dichiarazione, chiedi il conto per verificare se la somma delle carte di tutti i giocatori, Jolly inclusi, conferma quanto chiamato. Se la combinazione totale è presente a tavola perde chi ha dubitato, altrimenti perde chi ha mentito.
 
 ---
 
