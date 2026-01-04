@@ -9,13 +9,13 @@ Un gioco *push-your-luck* con bluff, strategia e *portate* per 3-8 giocatori.
     
 - **Giocatori**: Da 3 a 8 (il caos aumenta con il numero di commensali).
     
-- **Distribuzione**: Si inizia con **6 carte** a testa. Le carte sono segrete. Se siete in tanti (6+), potete scegliere di cominciare invece invece con 5 carte.
+- **Distribuzione**: Si inizia con **6 carte** a testa. Le carte sono segrete. Se siete in tanti (6+), potete scegliere di cominciare invece con 5 carte.
 
 ---
 
 ## 🎯 Il Gioco in Breve
 
-A turno dichiara una o due combinazioni di carte dello stesso valore e rivela obbligatoriamente una carta corrispondente dalla tua mano, ad esclusione dei Jolly. Puoi iniziare una nuova portata da una sola carta, alzare il rango di una esistente o aumentarne la quantità aggiungendo una carta alla volta. Se non credi all'ultima dichiarazione, chiedi il conto per verificare se la somma delle carte di tutti i giocatori, Jolly inclusi, conferma quanto chiamato. Se la combinazione totale è presente a tavola perde chi ha dubitato, altrimenti perde chi ha mentito.
+> A turno, dichiara una o due *portate* (combinazioni di carte dello stesso valore) e rivela obbligatoriamente una di quelle carte dalla tua mano (non il Jolly). Puoi fare un' *ordinazione* (iniziare una nuova *portata* da una sola carta), *speziare* (alzare il rango di una portata esistente) o *abbondare* (aumentarne la quantità aggiungendo una carta alla volta). Se non credi all'ultima dichiarazione, *chiedi il conto* per verificare se la somma delle carte di tutti i giocatori, Jolly inclusi, conferma quanto chiamato. Se la combinazione totale è presente a tavola perde chi ha dubitato, altrimenti perde chi ha mentito.
 
 ---
 
@@ -89,15 +89,15 @@ Esempi:
 
 > Quando un giocatore esclama ***"Il conto, prego!"***, tutti i commensali scoprono le proprie carte sul tavolo, e cercano di comporre le *portate* chiamate dal *Cameriere*, **usando le carte di tutti**.
 
-- ✅ **Se si riesce a comporre le portate**, il *Capotavola* **perde** la mano, e tutti gli altri **vincono**.
+- ✅ **Se si riesce a comporre le portate, il piatto è VERO**; il *Capotavola* **perde** la mano, e tutti gli altri **vincono**.
     
-- ❌ **Se NON si riesce a comporre le portate**, il *Cameriere* **perde** la mano, e tutti gli altri **vincono**.
+- ❌ **Se NON si riesce a comporre le portate, il piatto è FALSO**; il *Cameriere* **perde** la mano, e tutti gli altri **vincono**.
 
 ---
 
 ## 🏆 Premi e Penitenze
 
-Prima di cominciare il gioco, puoi scegliere quali delle seguenti regole applicare a fine mano:
+> Prima di cominciare il gioco, puoi scegliere quali delle seguenti regole applicare a fine mano:
 
 - Di base, la partita termina quando si raggiunge un limite prestabilito di mani. Vince il gioco chi ha perso meno volte.
     
@@ -111,13 +111,14 @@ Prima di cominciare il gioco, puoi scegliere quali delle seguenti regole applica
 
 #### 💁‍♂️ Consigli
 
-- Comincia la mano *ordinando* quando è possibile. Se non lo fai, rischi di dare agli altri giocatori un turno gratis. 
+- Comincia la mano *ordinando* quando possibile. Se non lo fai, rischi di dare agli altri giocatori un turno gratis. 
 	  Es.: **A** ordina "Un 5", **B** spezia "Un 6"; ora **C** può ordinare "Un 6 e un 5" senza dare informazioni sulla propria mano
     
 - Per mettere più pressione sugli altri giocatori, chiama carte di rango più altro. Questo rende più difficile *speziare* le *portate*, e costringe gli altri ad *abbondare* più spesso. 
     
-- Il seme delle carte non è rilevante in questo gioco, ma se mostri due carte dello stesso rango e diverso seme, stai dicendo agli altri che ne hai due diverse. 
-	  Es.: se mostri di avere un 5 di quadri e un 5 di cuori, dimostri di avere due 5.
+- Con $n$ carte in gioco, puoi aspettarti che la combinazione più grande di carte uguali (due mazzi, jolly incluso) sia di circa $1+n/6$ carte. Tienilo a mente quando decidi di dubitare.
+    
+- Se puoi, rivela una carta che hai già rivelato in precedenza. In questo modo darai via meno informazioni.
 
 ---
 
