@@ -3,6 +3,12 @@ Un gioco *push-your-luck* con bluff, strategia e *portate* per 3-8 giocatori.
 
 ---
 
+## 🎯 Il Gioco in Breve
+
+> A turno, dichiara una o due *portate* (combinazioni di carte dello stesso valore) e rivela obbligatoriamente una di quelle carte dalla tua mano (non il Jolly). Puoi fare un' *ordinazione* (iniziare una nuova *portata* da una sola carta), *speziare* (alzare il rango di una portata esistente) o *abbondare* (aumentarne la quantità aggiungendo una carta alla volta). Se non credi all'ultima dichiarazione, *chiedi il conto* per verificare se la somma delle carte di tutti i giocatori, Jolly inclusi, conferma quanto chiamato. Se la combinazione totale è presente a tavola perde chi ha dubitato, altrimenti perde chi ha mentito.
+
+---
+
 ## 🍽️ Materiali e Setup
 
 - **Mazzo**: 108 carte (2 mazzi francesi completi di **4 Jolly**).
@@ -10,12 +16,6 @@ Un gioco *push-your-luck* con bluff, strategia e *portate* per 3-8 giocatori.
 - **Giocatori**: Da 3 a 8 (il caos aumenta con il numero di commensali).
     
 - **Distribuzione**: Si inizia con **6 carte** a testa. Le carte sono segrete. Se siete in tanti (6+), potete scegliere di cominciare invece con 5 carte.
-
----
-
-## 🎯 Il Gioco in Breve
-
-> A turno, dichiara una o due *portate* (combinazioni di carte dello stesso valore) e rivela obbligatoriamente una di quelle carte dalla tua mano (non il Jolly). Puoi fare un' *ordinazione* (iniziare una nuova *portata* da una sola carta), *speziare* (alzare il rango di una portata esistente) o *abbondare* (aumentarne la quantità aggiungendo una carta alla volta). Se non credi all'ultima dichiarazione, *chiedi il conto* per verificare se la somma delle carte di tutti i giocatori, Jolly inclusi, conferma quanto chiamato. Se la combinazione totale è presente a tavola perde chi ha dubitato, altrimenti perde chi ha mentito.
 
 ---
 
@@ -56,7 +56,7 @@ Un gioco *push-your-luck* con bluff, strategia e *portate* per 3-8 giocatori.
 * Sei il primo a giocare; puoi chiamare *il primo*:   $$\text{"Un Re" (riveli un Re)}$$
   Hai aggiunto un Re alle portate.
     
-* Il giocatore prima di te ha chiamato "Due 10". Puoi chiamare *il secondo*, aggiungendolo al *primo*:   $$\text{"Due 10 e un 7 (riveli un 7 o un 10)"}$$
+* Il giocatore prima di te ha chiamato "Due 10". Puoi chiamare *il secondo*, aggiungendolo al *primo*:   $$\text{"Due 10 e un 7 (riveli un 10 o un 7)"}$$
   Hai aggiunto un 7 alle portate.
 
 #### 2. **Speziare** 🌶 
@@ -71,8 +71,8 @@ Esempi:
 
 > Aggiungere **esattamente una carta** ad una delle *portate*. Quando abbondi una portata, **il rango precedente viene completamente sostituito**.
 
-* Il giocatore prima di te ha chiamato "Un 10". Puoi *abbondare* chiamando un tris: $$\text{"Due Regine"}$$
-* Il giocatore prima di te ha chiamato "Due 9 e due 4".  Puoi *abbondare* il *secondo* chiamando: $$\text{"Due 9 e tre 2"}$$
+* Il giocatore prima di te ha chiamato "Un 10". Puoi *abbondare* chiamando un tris: $$\text{"Due Regine" (riveli una Regina)}$$
+* Il giocatore prima di te ha chiamato "Due 9 e due 4".  Puoi *abbondare* il *secondo* chiamando: $$\text{"Due 9 e tre 2" (riveli un 9 o un 2)}$$
 * Nota bene: non puoi aggiungere più di una carta ad una combinazione, né puoi *abbondare* due *portate* allo stesso tempo.
 
 #### 4. _**Chiedere il Conto**_ 🧾
