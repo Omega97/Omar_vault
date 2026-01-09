@@ -5,7 +5,7 @@
 Sometimes LLMs get stuck in a loop where they **repeat the same token** over and over again. 
 $$\text{The slovenian word for a female teacher is "učitelj\_ica\_ica\_ica\_ica\_ica\_ica...}
 $$
-My goal si tu study why these models get stuck in these single-token loops. I've had an interesting idea about combining Statistical Mechanics (SM) with LLMs, in a framework that does not explicitly depend on a specific input, but rather uses a portion of the training dataset instead.
+My goal si to study why these models get stuck in these single-token loops. I've had an interesting idea about combining Statistical Mechanics (SM) with LLMs, in a framework that does not explicitly depend on a specific input, but rather uses a portion of the training dataset instead.
 
 > We can take a layer of activations $q$ (a vector of length $N$) as a representative point for the system. The energy $H$ is the probability of outputting the **correct** token (as given by the dataset) minus the probability of outputting the **last** token of the input: 
 $$
@@ -96,12 +96,15 @@ This framework could **unify these**: e.g., show that attention collapse causes 
 - Which inputs should we use? Random tokens, or the training set?
 - In this framework we probably don't need the *momenta*.
 - should the position be the input tokens or the activations?
-- The temperature $T$ is not the commonly referred-to model sampling temperature, which is not used on this case.
-- The temperature $T$ could be used to estimate the minimum sampling temperature for a model to avoid getting stuck.
 - What if the problem lies outside of the $\mathcal{Q}$ space?
 - Do we estimate the energy as $\frac{1}{M} \sum_i{H(\mathbf{q}_i)}$ ? Probably not.
 - The framework returns $S(E)$, $T(E)$, $C(E)$, ...
 - What shapes are we expecting? What do they tell about the model?
 - How about volume, which is fixed in the microcanonical ensemble, together with $E$ and $N$?
-- Phase transitions?
+- If you want positive energy, just add 1: $H(\mathbf{q}) = p_{\text{correct}}(\mathbf{q}) + \neg \, p_{\text{last}}(\mathbf{q})$
+- The temperature $T(E)$ is not the commonly referred-to model sampling temperature $T_{\text{sam}}$ , which is not used on this case.
+- The temperature $T(E)$ could be used to estimate the minimum sampling temperature for a model to avoid getting stuck.
+- We can change the sampling temperature without re-running the model. This lets us re-compute all the TD functions **also** as a function of $T_{\text{sam}}$ .
+- The framework may be able to identify a phase transition threshold, where one can find the optimal sampling temperature $T_{\text{sam}}$ to avoid stuttering **without** re-running the LLM.
+
 
