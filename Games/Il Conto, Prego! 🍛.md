@@ -103,7 +103,7 @@ Esempi:
     
 - **Regola dell'Oste**: Se hai vinto la mano precedente sei *L'Oste*. Nella prossima mano sarai il mazziere. Se hai vinto senza usare i Jolly, comincerai la mano con una **carta in più**.
     
-- **Regola del Saldo**: Ogni volta che perdi la mano, si aggiunge un *Saldo* alla tua lista. A inizio partita, dovrai scartare una carta per ogni *Saldo* sul tuo conto. Chi resta senza carte, **viene eliminato** dalla partita.
+- **Regola del Saldo**: Ogni volta che perdi la mano, si aggiunge un *Saldo* alla tua lista. A inizio partita, dovrai scartare una carta per ogni *Saldo* sul tuo conto. Chi resta senza carte, **viene eliminato** dalla partita (In questa variante puoi rivelare il Jolly).
     
 - **Regola degli Omaggi**: Ogni volta che chiami *il conto* e vinci, si aggiunge un *Omaggio* alla tua lista. A inizio partita, pescherai una carta in più per ogni *omaggio* e poi ne scarti altrettante a faccia in giù. Chi arriva per primo a un certo numero di omaggi, **vince la partita**.
 
