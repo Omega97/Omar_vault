@@ -1,0 +1,49 @@
+
+
+- Itsukushima Jinja
+- Hiroshima
+- #todo Ugi Kroto
+- #todo Pokemon center
+- #todo purkase 
+
+ Takayama - Kanazawa (Gifu)🗻🦅
+
+| Quando | Dove                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Priorità |
+| ------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+|        | [Ryokan Takayama](https://www.booking.com/hotel/jp/ryokan-asunaro.it.html?aid=356980&label=gog235jc-10CAMYlwQodUIIdGFrYXlhbWFIFFgDaHGIAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4AqPjj8QGwAIB0gIkNzYyYjVlOGMtYzg4Zi00ZGMxLWEzYjktM2NiZTYwZmI1MmIy2AIB4AIB)  💧                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |          |
+|        | [Onsen Takayama](https://www.booking.com/onsen/city/jp/takayama.it.html)  💧                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |          |
+|        | [Kanazawa](https://visitkanazawa.jp/it/trip-ideas/detail_243.html) 🌆                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |          |
+|        | Shinhotaka Onsen Yarimikan 💧                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |          |
+|        | Omicho Market 🛒                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |          |
+|        | [Sukanami Kaido](https://www.google.it/maps/@34.2533151,133.0554112,3a,90y,32.81h,88.95t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIDKotrmiwE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HZpi7tKYVY0M6xzqaYoStzYu7xeOq4J8kIhkzpy-gDPpuKlA5B5LBCtxpiKafE_rBVDJjAGoJ4_03hmWvF0txz2q0VHOWipGSaq8cXcNL6zwC6K-Rr2trwERPeGe-0aQqgbNVQMAw%3Dw900-h600-k-no-pi1.0460043490112696-ya30.134908502533428-ro0-fo100!7i8192!8i4096?entry=ttu&g_ep=EgoyMDI1MDcyMi4wIKXMDSoASAFQAw%3D%3D) + [Rabbit Island](https://www.google.it/maps/place/%C5%8Ckunoshima/@34.3090581,132.959961,14z/data=!4m22!1m15!4m14!1m6!1m2!1s0x477b08202faeaf65:0x79d0ee890da76156!2sVia+Prvacina,+1,+I-34070+Doberd%C3%B2+del+Lago+GO,+Italia!2m2!1d13.5406655!2d45.8439705!1m5!1m1!2s46.017230,13.357286!2m2!1d13.3572882!2d46.0172308!3e1!3m5!1s0x3550453047d04345:0x48c667e9a04c14fa!8m2!3d34.30906!4d132.9939774!16s%2Fm%2F03bzlvh?entry=ttu&g_ep=EgoyMDI1MDcyMi4wIKXMDSoASAFQAw%3D%3D)<br> 🚲🐰 | ☀️       |
+
+ Hiroshima 🕊
+
+| Quando | Dove                                   | Priorità |
+| ------ | -------------------------------------- | -------- |
+|        | Hiroshima Peace Memorial Park & Museum |          |
+|        | #todo Miyajima Island                  |          |
+|        | #todo **Hiroshima Castle**             |          |
+|        | #todo Okonomimura                      |          |
+
+Nagoya (Aichi) 🐬
+
+| Quando | Dove                     | Priorità |
+| ------ | ------------------------ | -------- |
+|        | Nagoya Castle 🏯         |          |
+|        | #todo Museo dell'auto ⛪️ |          |
+
+Niigata 🍜📸
+
+| Quando | Dove                                | Priorità |
+| ------ | ----------------------------------- | -------- |
+|        | Takada Castle Site Park (Joetsu) 🌳 |          |
+
+
+[Arco Kyoto](https://www.booking.com/attractions/searchresults/jp/kyoto.it.html?end_date=2025-10-15&selected_currency=CHF&etStateBlob=EbKPTn-dSiJ7hvRI_9HagKS85o24YjXEb7lEjh2J9Fkv18Y9P8PoImLm4G_oZqmzPq4GzSwVLFGB5fyy57esmQ-ztXHhxYell&adplat=www-BOOKING_HOTEL_CONFIRMATION-MAIN_COLUMN-attraction-missing_creative-2bvy4GYJEPOuoAIKfjGb13&dest_id=-235402&sort_by=&label=gog235jc-10CAsodUInYXBhaG90ZXJ1cml6b3RvZGEtYmFuLW5hbmJheWktcWlhbi10YXdhSDNYA2gsiAEBmAEzuAEXyAEP2AED6AEB-AEBiAIBqAIBuALTzqjFBsACAdICJDMxNDhkZmFmLTI1M2QtNGQ2YS1iZjQ3LTIxMDIzNTEzNTNlMNgCAeACAQ&filter_by_min_rating%5B%5D=0.0&url_code=AT_UjJT63o0hfkVs1uvFKlylrnBgrf80mM1f4qFGZzV6F6RoVAx0AlANVVZ812l1UcotlHNmA&distribution_id=2bvy4GYJEPOuoAIKfjGb13&aid=356980&client_name=exposure&start_date=2025-10-10)
+
+
+19/10
+
+| 🐓<br>15:00 | (Opzionale) **Yamadera Temple** 🛕🚶‍♀️        | Yamadera           | 1.000 scalini, vista panoramica<br>#todo combiniamo? |
+| ----------- | ---------------------------------------------- | ------------------ | ---------------------------------------------------- |

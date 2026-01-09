@@ -1,0 +1,1739 @@
+C:\Users\monfalcone\Il mio Drive\Documents\Obsidian Vault\Japan_Trip_2025\Nihongo
+
+================================================================
+Numbers 🔢.md
+================================================================
+
+# 🔢 Japanese Numbers Cheat Sheet
+
+
+A quick reference for counting in Japanese — with **key exceptions** highlighted.
+
+---
+
+## 📌 Basic Digits (0–10)
+
+| Numeral | Kanji | Reading | Notes |
+|--------|------|--------|------|
+| 0 | 〇 / ゼロ | **zero** | 〇 used in dates; ゼロ in math/tech |
+| 1 | 一 | **ichi** | |
+| 2 | 二 | **ni** | |
+| 3 | 三 | **san** | |
+| 4 | 四 | **shi** / **yon** | **shi** = unlucky (death); **yon** preferred in counting |
+| 5 | 五 | **go** | |
+| 6 | 六 | **roku** | |
+| 7 | 七 | **shichi** / **nana** | **nana** preferred to avoid confusion with **ichi** |
+| 8 | 八 | **hachi** | |
+| 9 | 九 | **ku** / **kyū** | **kyū** used in most counting (e.g., 19 = **jū kyū**) |
+| 10 | 十 | **jū** | |
+
+> 💡 **Tip**: In **casual counting**, use **yon, nana, kyū** to avoid confusion or bad associations.
+
+---
+
+## 🔟 Teens (11–19)
+
+Form: **jū + [digit]**
+
+| Number | Reading | Notes |
+|--------|--------|------|
+| 11 | **jū ichi** | |
+| 12 | **jū ni** | |
+| 13 | **jū san** | |
+| 14 | **jū yon** | ✅ **Not** *jū shi* |
+| 15 | **jū go** | |
+| 16 | **jū roku** | |
+| 17 | **jū nana** | ✅ **Not** *jū shichi* |
+| 18 | **jū hachi** | |
+| 19 | **jū kyū** | ✅ **Not** *jū ku* |
+
+---
+
+## 🧮 Tens (20–90)
+
+Form: **[digit] + jū**
+
+| Number | Reading |
+|--------|--------|
+| 20 | **ni jū** |
+| 30 | **san jū** |
+| 40 | **yon jū** |
+| 50 | **go jū** |
+| 60 | **roku jū** |
+| 70 | **nana jū** |
+| 80 | **hachi jū** |
+| 90 | **kyū jū** |
+
+> ✅ No major exceptions here.
+
+---
+
+## 🏢 Hundreds (100–900)
+
+| Number | Regular Form | **Actual Reading** | Exception? |
+|--------|--------------|-------------------|-----------|
+| 100 | 一百 | **hyaku** | ✅ Standard |
+| 200 | 二百 | **ni hyaku** | ✅ |
+| 300 | 三百 | **sanbyaku** | ⚠️ **NOT** *san hyaku* |
+| 400 | 四百 | **yon hyaku** | ✅ |
+| 500 | 五百 | **go hyaku** | ✅ |
+| 600 | 六百 | **roppyaku** | ⚠️ **NOT** *roku hyaku* |
+| 700 | 七百 | **nana hyaku** | ✅ |
+| 800 | 八百 | **happyaku** | ⚠️ **NOT** *hachi hyaku* |
+| 900 | 九百 | **kyū hyaku** | ✅ |
+
+> 🔥 **Key Exceptions**:  
+> - **300 → sanbyaku**  
+> - **600 → roppyaku**  
+> - **800 → happyaku**
+
+---
+
+## 🏞 Thousands (1,000–9,000)
+
+| Number | Regular Form | **Actual Reading** | Exception? |
+|--------|--------------|-------------------|-----------|
+| 1,000 | 一千 | **sen** | ✅ Standard |
+| 2,000 | 二千 | **ni sen** | ✅ |
+| 3,000 | 三千 | **san zen** | ⚠️ **NOT** *san sen* |
+| 4,000 | 四千 | **yon sen** | ✅ |
+| 5,000 | 五千 | **go sen** | ✅ |
+| 6,000 | 六千 | **rokku sen** | ⚠️ Often **roku sen**, but **rokku sen** in some contexts |
+| 7,000 | 七千 | **nana sen** | ✅ |
+| 8,000 | 八千 | **hassen** | ⚠️ **NOT** *hachi sen* |
+| 9,000 | 九千 | **kyū sen** | ✅ |
+
+> 🔥 **Key Exceptions**:  
+> - **3,000 → san zen**  
+> - **8,000 → hassen**
+
+> 💡 Note: **6,000** is usually **roku sen**, but may become **rokku sen** in rapid speech.
+
+---
+
+## 📅 Common Use Cases
+
+### Age
+
+- **28 years old**:  
+  $$\underbrace{28歳}_{にじゅうはっさい}$$  
+  → Pronounced **nijūhassai** (not *nijūhachi-sai*) due to **rendaku** (sound change before さい)
+
+### Time
+
+- **7:00 PM**:  
+  $$19\underbrace{時}_{じ}$$ → **jū kyū ji**  
+- **3 people**:  
+  $$3\underbrace{人}_{にん}$$ → **san nin**  
+  (But: 1 person = **hitori**, 2 people = **futari** — **irregular!**)
+
+### Counting People (Exception!)
+
+| Number | Counter | Reading |
+|--------|--------|--------|
+| 1 | 一人 | **hitori** |
+| 2 | 二人 | **futari** |
+| 3+ | 三人, 四人… | **san nin, yon nin…** |
+
+---
+
+## 📝 Summary of Major Exceptions
+
+| Context | Expected | **Actual** | Reason |
+|--------|--------|----------|-------|
+| 300 | san hyaku | **sanbyaku** | Sound fusion |
+| 600 | roku hyaku | **roppyaku** | Gemination (double consonant) |
+| 800 | hachi hyaku | **happyaku** | Gemination |
+| 3,000 | san sen | **san zen** | Voicing (s → z) |
+| 8,000 | hachi sen | **hassen** | Gemination |
+| 28歳 | nijūhachi-sai | **nijūhassai** | Rendaku before さい |
+| 1 person | ichi nin | **hitori** | Irregular counter |
+| 2 people | ni nin | **futari** | Irregular counter |
+
+---
+
+================================================================
+Vocabulary ✉️.md
+================================================================
+
+---
+
+### 💧 **Onsen & Ryokan (Hot Springs & Traditional Stays)**
+
+| Japanese | English         |
+| -------- | --------------- |
+| おんせん     | hot spring      |
+| ろうかん     | traditional inn |
+| さうな      | sauna           |
+| ふろ       | bath            |
+| いれい      | etiquette       |
+| たばこ      | smoking         |
+| ゆかた      | light robe      |
+
+> ✅ All already in kana → no changes needed.
+
+---
+
+================================================================
+⛩ Japan.md
+================================================================
+
+### ⛩ **Temples, Shrines & Culture**
+
+| Japanese                     | English                   |
+| ---------------------------- | ------------------------- |
+| $\underbrace{美}_{うつく}しい$     | beautiful                 |
+| $\underbrace{話}_{はな}す$       | to talk / discuss         |
+| $\underbrace{知}_{し}りたい$      | want to know              |
+| $\underbrace{寺}_{てら}$        | temple                    |
+| $\underbrace{場所}_{ばしょ}$      | place                     |
+| $\underbrace{神社}_{じんじゃ}$     | shrine                    |
+| $\underbrace{近}_{ちか}く$       | near                      |
+| $\underbrace{住}_{す}んでいます$    | live (reside)             |
+| $\underbrace{縁結}_{えんむす}び$    | love charm / binding luck |
+| $\underbrace{御膳菜}_{おせんざい}$   | temple vegetarian meal    |
+| $\underbrace{日本文化}_{にほんぶんか}$ | Japanese culture          |
+| $\underbrace{大切}_{たいせつ}$     | important                 |
+| $\underbrace{初}_{はじ}めて$      | for the first time        |
+| $\underbrace{御神籤}_{おみくじ}$    | fortune slip              |
+| $\underbrace{異国}_{いこく}$      | foreign country           |
+| $\underbrace{方法}_{ほうほう}$     | way / method              |
+
+---
+
+1) **I finally came to Japan.** ⛩
+
+$$やっと\quad\underbrace{日本}_{にほん}に\quad\underbrace{来}_{き}ました。$$
+
+- やっと = finally; at last
+- 日本 = Japan
+- 来ました = came
+
+---
+
+2) **The Japanese yen is cheap these days, isn’t it?** 💸⬇️
+
+$$\underbrace{日本円}_{にほんえん}は\quad\underbrace{今}_{いま}、\underbrace{安}_{やす}い\quadですね。$$
+
+- 日本円 = Japanese yen
+- 今 = now
+- 安い = cheap / low price
+- ですね = isn’t it? (seeking agreement)
+
+---
+
+3) **May I take a photo?** 📸
+
+$$\underbrace{写真}_{しゃしん}を\quad\underbrace{撮}_{と}って\quadいい？$$
+
+- 写真 = photo
+- 撮 = to take
+- いい = is it ok?
+
+💡 Dropping も and using the te-form + いい is more casual and common among younger people or in informal settings.
+
+---
+
+4) **Where can I buy a Suica card?** 💳
+
+$$Suicaは\quadどこで\quad\underbrace{買}_{か}えますか？$$
+
+- どこで = at where / where (location)
+- 買えます = can buy (potential form of 買う)
+
+---
+
+5) **Where can I recharge (top up) my Suica?** 💳
+
+$$\text{Suica}を\quadどこで\quad\underbrace{チャージ}_{CHAAJI}\quadできますか？$$
+
+- チャージ = charge / top up
+- できます = can / be able to
+
+---
+
+6) **Can I use Mobile Suica?** 📱💳
+
+$$\underbrace{モバイル}_{MOBAIRU}\quad\text{Suica}は\quad\underbrace{使}_{つか}えますか？$$
+
+- 使えます = can use
+
+---
+
+7) **I love Japanese culture. However, Japanese is a bit difficult.** ⛩
+
+$$\underbrace{日本文化}_{にほんぶんか}が\quad\underbrace{大好}_{だいす}きです。$$
+$$けれども、\underbrace{日本語}_{にほんご}は\quad少し\quad\underbrace{難}_{むずか}しいです。$$
+
+- 日本文化 = Japanese culture
+- 大好き = really like / love
+- けれども = however / but
+- 日本語 = Japanese language
+- 少し = a little
+- 難しい = difficult
+
+---
+
+8) What interesting places are there around here? 🗺️
+
+$$この\quad\underbrace{近}_{ちか}くで、\underbrace{面白}_{おもしろ}い\quad\underbrace{場所}_{ばしょ}は\quadありますか？$$
+
+- 近く = nearby / around here  
+- 面白い = interesting  
+- 場所 = place(s)  
+- ありますか = are there? (polite question form)
+
+---
+
+================================================================
+✈️ Airport.md
+================================================================
+
+### ✈️ Airport
+
+| Japanese                         | English             |
+| -------------------------------- | ------------------- |
+| $\underbrace{日本}_{にほん}$          | Japan               |
+| $\underbrace{パスポート}_{PASUPOOTO}$ | passport            |
+| $\underbrace{カード}_{KAADO}$       | card                |
+| $\underbrace{空港}_{くうこう}$         | airport             |
+| $\underbrace{関空}_{かんくう}$         | Kansai Airport      |
+| $\underbrace{初}_{はじ}めて$          | for the first time  |
+| $\underbrace{入国}_{にゅうこく}$        | immigration / entry |
+| $\underbrace{旅行}_{りょこう}$         | trip / travel       |
+| $\underbrace{用意}_{ようい}$          | prepare             |
+| $\underbrace{目的}_{もくてき}$         | purpose             |
+| $\underbrace{荷物}_{にもつ}$          | luggage / baggage   |
+| $\underbrace{受け取}_{うけと}ります$      | pick up             |
+| $\underbrace{着きます}_{つきます}$       | arrive              |
+| $\underbrace{両替所}_{りょうがえしょ}$     | currency exchange   |
+
+---
+
+1) **It's my first time in a Japanese airport.** ✈️
+
+$$\underbrace{日本}_{にほん}の\quad\underbrace{空港}_{くうこう}は\quad \underbrace{初}_{はじ}めて です。$$
+
+- 空港 = airport
+- 初めて = for the first time
+
+---
+
+2) **We arrived at Kansai Airport.** ✈️
+
+$$\underbrace{関空}_{かんくう}に\quad\underbrace{着}_{つ}きました。$$
+
+- 関空 = Kansai Airport (abbreviation)
+- 着きました = arrived
+
+💡 This is a natural, simple statement upon landing.
+
+---
+
+3) **Please have your passport and landing card ready.** 🛂
+
+$$\underbrace{パスポート}_{PASUPOOTO}と\quad\underbrace{入国}_{にゅうこく} \underbrace{カード}_{KAADO}を\quadご\underbrace{用意}_{ようい}\quadください。$$
+
+- パスポート = passport
+- 入国カード = landing card
+- ご用意 = prepare
+
+---
+
+4) **What is the purpose of your visit?** ❔
+
+$$ご\underbrace{旅行}_{りょこう}の\quad\underbrace{目的}_{もくてき}は \quad何ですか？$$
+
+- ご旅行 = your trip (polite)
+- 目的 = purpose
+
+---
+
+5) **Where is the currency exchange?** 💱
+
+$$\underbrace{両替所}_{りょうがえしょ}は\quadどこですか？$$
+
+- 両替所 = currency exchange
+
+💡 A practical question for travelers needing to exchange money.
+
+---
+
+6) **Where do I pick up my luggage?** 🧳
+
+$$\underbrace{荷物}_{にもつ}は\quadどこで\quad\underbrace{受}_{う}け\underbrace{取}_{と}りますか？$$
+
+- 荷物 = luggage / baggage
+- 受け取ります = receive / pick up
+
+💡 Useful for navigating baggage claim areas.
+
+---
+
+8) **On Saturday, I’ll go to Kyoto. I want to see shrines.** 🗺️
+
+$$\underbrace{土曜}_{どよう}に\quad\underbrace{京都}_{きょうと}に\quad\underbrace{行}_{い}きます。$$
+$$\underbrace{神社}_{じんじゃ}を\quad\underbrace{見}_{み}たい\quadです。$$
+
+- 土曜 = Saturday
+- 京都 = Kyoto
+- 行きます = go (polite present/future tense)
+- 神社 = shrine
+- 見たい = want to see
+
+💡 Useful when discussing weekend travel plans with locals at an airport or hotel, especially about sightseeing.
+
+---
+
+================================================================
+🌏 Self-Introduction.md
+================================================================
+
+### 🌏 Common Japanese Greetings
+
+| Japanese                      | English                |
+| ----------------------------- | ---------------------- |
+| はじめまして                        | Nice to meet you       |
+| こんにちは                         | Hello / Good afternoon |
+| こんばんは                         | Good evening           |
+| $おはようございます$                   | Good morning           |
+| おはよう                          | Morning! (casual)      |
+| $いただきます$                      | I humbly receive       |
+| $ごちそうさまでした$                   | Thank you for the meal |
+| ありがとう                         | Thanks (casual)        |
+| $ありがとうございます$                  | Thank you (polite)     |
+| どうも ありがとう                     | Thanks a lot           |
+| すみません                         | Excuse me / Sorry      |
+| ごめん                           | Sorry (casual)         |
+| ごめんなさい                        | I’m sorry              |
+| $\underbrace{大丈夫}_{だいじょうぶ}$です | It’s OK / I’m fine     |
+| $\underbrace{行}_{い}ってきます$     | I’m leaving            |
+| $\underbrace{行}_{い}ってらっしゃい$   | Have a good trip       |
+| $ただいま$                        | I’m home               |
+| $おかえりなさい$                     | Welcome back           |
+| $おやすみなさい$                     | Good night             |
+| またあした                         | See you tomorrow       |
+| じゃあ、また                        | See you later          |
+| $ありがとうございました$                 | Thank you (past tense) |
+
+---
+
+### 🤖 Tech & AI (For Conversations)
+
+| Japanese                        | English                 |
+| ------------------------------- | ----------------------- |
+| $\underbrace{人工知能}_{じんこうちのう}$   | artificial intelligence |
+| ロボット                            | robot                   |
+| データ                             | data                    |
+| $\underbrace{計算}_{けいさん}$        | calculation             |
+| $\underbrace{制御}_{せいぎょ}$        | control                 |
+| $\underbrace{勉強}_{べんきょう}$       | study                   |
+| $\underbrace{量子力学}_{りょうしりきがく}$  | quantum mechanics       |
+| $\underbrace{物理学}_{ぶつりがく}$      | physics                 |
+| $\underbrace{数学}_{すうがく}$        | math                    |
+| $\underbrace{科学}_{かがく}$         | science                 |
+| $\underbrace{技術}_{ぎじゅつ}$        | technology              |
+| $\underbrace{研究}_{けんきゅう}$       | research                |
+| $\underbrace{産業}_{さんぎょう}$       | industry                |
+| $\underbrace{使}_{つか}われている$      | is being used (passive) |
+| データサイエンス                        | data science            |
+| $\underbrace{マスター課程}_{ますたーかてい}$ | Master’s program        |
+
+---
+
+1) **Hello, my name is Omar. Nice to meet you!** 🆕
+
+$$こんにちは、\underbrace{オマール}_{OMAARU}です。はじめまして！$$
+
+- こんにちは = hello (polite greeting)
+- オマール = Omar (name)
+- はじめまして = nice to meet you (first meeting)
+
+---
+
+2) **Pleased to make your acquaintance.** 🙇
+
+$$よろしく\quadお\underbrace{願}_{ねが}いします。$$
+
+- よろしく = please (in context: treat me well/favourably)
+- お願いします = please / I ask of you
+
+💡 Often used after introductions to express goodwill or in formal situations like starting a job or meeting.
+
+---
+
+3) **How are you?** 😊
+
+$$お\underbrace{元気}_{げんき}ですか？$$
+
+- お元気 = health / well-being (polite)
+
+💡 A common abbreviation is just: 元気？
+
+---
+
+4) **We are from Italy.** 🍕
+
+$$私たちは\quad\underbrace{イタリア}_{ITARIA}から \underbrace{来}_{き}ました。$$
+
+- イタリア (意大利) = Italy
+- から = from
+- 来ました = came (from)
+
+---
+
+5) **I studied physics in Italy.** ⚛️
+
+$$\underbrace{イタリア}_{ITARIA}で\quad\underbrace{物理学}_{ぶつりがく} を \underbrace{勉強}_{べんきょう} しました。$$
+
+- 物理学 = physics
+- 勉強しました = studied
+- イタリアで = in Italy
+
+---
+
+6) **I am a Master's student in AI.** 🤖
+
+$$AIの マスター\quad\underbrace{課程}_{かてい}の \underbrace{学生}_{がくせい} です。$$
+
+- マスター課程 = Master's program
+- 学生 = student
+
+---
+
+7) **I am a chess player.** ♟
+
+$$ \underbrace{チェス}_{CHESU}\quad\underbrace{選手}_{せんしゅ} です。$$
+
+- チェス = chess
+- 選手 = player (in a game or sport)
+
+---
+
+8) **I can also play Shogi and Go.** ⚫️⚪️
+
+$$\underbrace{将棋}_{しょうぎ}と\quad\underbrace{囲碁}_{いご} も\quad少し\quadできます。$$
+
+- 将棋 = Shogi (Japanese chess)
+- 囲碁 = Go
+- できます = can do / am able to
+
+---
+
+9) **I love listening to music.** 🎵
+
+$$\underbrace{音楽}_{おんがく}を\quad\underbrace{聞}_{き}くのが\quad\underbrace{大好}_{だいす}きです。$$
+
+- 音楽 = music
+- 聞く = listen
+- のが = nominalizer (turns "listen" into "listening")
+
+---
+
+10) **This is my friend Nic. He is a researcher.** 🧑‍🔬
+
+$$これは\quad私の\quad\underbrace{友達}_{ともだち}の\quadニック です。$$
+$$\underbrace{彼}_{かれ}は\quad\underbrace{研究者}_{けんきゅうしゃ}です。$$
+
+- 友達 = friend
+- 研究者 = researcher
+- 彼 = he
+
+---
+
+11) **This is my friend Peter. He works with fiber optics.** 💡
+
+$$これは\quad私の\quad\underbrace{友達}_{ともだち}の\quadピーター です。$$
+$$\underbrace{彼}_{かれ}は\quadファイバー\underbrace{光学}_{こうがく}で\quad \underbrace{働}_{はたら}いて います。$$
+
+- ファイバー光学 = fiber optics
+- 働いています = works (at a job)
+- 彼 = he
+
+---
+
+12) **We like to play board games.** 🎲
+
+$$\underbrace{ボードゲーム}_{BŌDOGĒMU}をするの\quadが\underbrace{好}_{す}きです。$$
+
+- ボードゲーム = board game
+- する = to do / play (for games)
+- のが = nominalizer (turns "play" into a noun phrase, "playing")
+- 好きです = like / love
+
+💡 A natural way to express enjoyment of board games, using "のが" to emphasize the activity of playing.
+
+---
+
+13) **I will be visiting Japan for two weeks.** ✈️
+
+$$\underbrace{日本}_{にほん}に\quad2\underbrace{週間}_{しゅうかん}\quad \underbrace{滞在}_{たいざい}する\quad\underbrace{予定}_{よてい} です。$$
+
+- 2週間 = two weeks
+- 滞在する = to stay (temporarily)
+- 予定です = plan to / will (be doing)
+
+
+---
+
+14) **I’m in Japan for just two weeks.** 🏡
+
+$$2\underbrace{週間}_{しゅうかん}だけ\quad\underbrace{日本}_{にほん}に\quadいます。$$
+
+- 週間 = week
+- だけ = for (a period of ...)
+
+---
+
+15) **I am interested in Japanese culture.** ⛩💛
+
+$$\underbrace{日本}_{にほん}の\quad\underbrace{文化}_{ぶんか}に\quad \underbrace{興味}_{きょうみ}が あります。$$
+
+- 文化 = culture
+- 興味があります = am interested in
+
+---
+
+16) **I’m studying Japanese. I’ll get better one step at a time.** 📖
+
+$$\underbrace{日本語}_{にほんご}を\quad\underbrace{勉強}_{べんきょう}しています。$$
+$$\underbrace{一歩}_{いっぽ}ずつ\quad\underbrace{上手}_{じょうず}に\quadなります。$$
+
+- 日本語 = Japanese language
+- 勉強しています = am studying (ongoing action)
+- 一歩 = one step
+- ずつ = each (indicating gradual progress)
+- 上手 = skilled / good at
+- なります = become (polite)
+
+💡 Perfect for language exchanges or casual meetups to show effort and humility when discussing learning Japanese with locals.
+
+---
+
+17) **I studied Quantum Mechanics at the university.** ⚛️
+
+$$\underbrace{大学}_{だいがく}で\quad\underbrace{量子力学}_{りょうしりきがく}を\quad\underbrace{勉強}_{べんきょう}しました。$$
+
+- 量子力学 = quantum mechanics 
+- 勉強 = studied
+- 大学 = university
+
+---
+
+18) I enjoy discussing science and technology with people from different countries. 🌍🔬
+
+$$\underbrace{科学}_{かがく}と\quad\underbrace{技術}_{ぎじゅつ}に\quadついて、\underbrace{異国}_{いこく}の\quad\underbrace{人}_{ひと}と\quad\underbrace{話}_{はな}すのが\quad\underbrace{好}_{す}きです。$$
+
+- 科学 = science  
+- 技術 = technology
+- について = about/regarding
+- 異国 = foreign country (literally “different country”)  
+- 人 = people  
+- 話す = to talk / discuss  
+- のが好き = enjoy (doing something)  
+
+
+---
+
+19) **I am 28 years old.** 🎂
+
+$$28\underbrace{歳}_{さい}です。$$
+
+- 28歳 = 28 years old 
+
+---
+
+20) **I am interested in math and science.** ➗🔬
+
+$$\underbrace{数学}_{すうがく}と\quad\underbrace{科学}_{かがく}に\quad\underbrace{興味}_{きょうみ}が\quadあります。$$
+
+- 数学 = math  
+- 科学 = science  
+- 興味 = interest
+
+---
+
+21) **I live near Venice.** 🏞️
+
+$$\underbrace{ヴェネツィア}_{VENESHIA}の\quad\underbrace{近}_{ちか}くに\quad\underbrace{住}_{す}んでいます。$$
+
+- ヴェネツィア = Venice  
+- 近く = near  
+- 住んでいます = live (reside)
+
+---
+
+22) I’d like to learn more about how AI is used in Japanese research and industry. 🤖🇯🇵
+
+$$\underbrace{日本}_{にほん}の\quad\underbrace{研究}_{けんきゅう}や\quad\underbrace{産業}_{さんぎょう}で、$$
+$$AIが\quad\underbrace{使}_{つか}われている\quad\underbrace{方法}_{ほうほう}を、\quadもっと\quad\underbrace{知}_{し}りたいです。$$
+
+- 日本 = Japan  
+- 研究 = research  
+- **「や」** is used to **list items incompletely**
+- 産業 = industry  
+- 使われている = is being used (passive form)  
+- 方法 = way / method  
+- 知りたい = want to know  
+
+---
+
+23) “I come from Italy, but I live in Switzerland.”
+
+$$イタリアから\quad\underbrace{出身}_{しゅっしん}です\quadが、スイスに\quad\underbrace{住}_{す}んでいます。$$
+
+- が = but
+- $\underbrace{住}_{す}んでいます$ = live
+
+---
+
+================================================================
+🌤 Weather & Nature.md
+================================================================
+
+Here are 5 new phrases to add, following the exact style of your `combined_Nihongo.txt` document:
+
+---
+
+### 🌉 Bridge & Scenic Views
+| Japanese                 | English          |
+| ------------------------ | ---------------- |
+| $\underbrace{橋}_{はし}$    | bridge           |
+| $\underbrace{景色}_{けしき}$  | view / scenery   |
+| $\underbrace{高い}_{たかい}$  | high / tall      |
+| $\underbrace{上}_{うえ}$    | top / above      |
+| $\underbrace{渡}_{わた}ります$ | cross (a bridge) |
+
+1) **The bridge is very high.** 🌉  
+$$\underbrace{橋}_{はし}は\quadとても\quad\underbrace{高}_{たか}いです。$$  
+- 橋 = bridge  
+- とても = very  
+- 高い = high / tall  
+
+2) **Let’s cross the bridge.** 🚶‍♂️🌉  
+$$\underbrace{橋}_{はし}を\quad\underbrace{渡}_{わた}りましょう。$$  
+- 渡ります = to cross  
+- よう = let's (do something)  
+
+3) **The view from here is amazing!** 🌄  
+$$ここから\quadの\quad\underbrace{景色}_{けしき}は\quadすばらしい！$$  
+- ここから = from here  
+- の = of / from  
+- 景色 = view / scenery  
+
+4) **Is it safe to walk on the bridge?** ⚠️  
+$$この\quad\underbrace{橋}_{はし}を\quadあるいても\quad\underbrace{大丈夫}_{だいじょうぶ}ですか？$$  
+- 歩いても = even if I walk / can I walk  
+- 大丈夫 = okay / safe  
+
+5) **We walked across the bridge and took photos.** 📸🌉  
+$$\underbrace{橋}_{はし}を\quad\underbrace{渡}_{わた}って、\underbrace{写真}_{しゃしん}を\quad\underbrace{撮}_{と}りました。$$  
+- 渡って = crossed (te-form)  
+- 撮りました = took (photos)
+
+
+### 🌤️ Weather & Conditions
+
+| Japanese                 | English          |
+| ------------------------ | ---------------- |
+| あめ                       | rain             |
+| あめふり                     | rainfall         |
+| かざ                       | wind             |
+| やわらかい                    | gentle, light    |
+| きり                       | fog, mist        |
+| $\underbrace{上}_{うえ}$    | top / above      |
+| $\underbrace{下}_{しも}$    | down / below     |
+| $\underbrace{暑}_{あつ}い$   | hot              |
+| $\underbrace{寒}_{さむ}い$   | cold (air/temp)  |
+| $\underbrace{暖}_{あたた}かい$ | warm             |
+| $\underbrace{強い}_{つよい}$  | strong, heavy    |
+| $\underbrace{晴れ}_{はれ}$   | clear (weather)  |
+| $\underbrace{曇り}_{くもり}$  | cloudy           |
+| $\underbrace{汚れ}_{よごれ}$  | dirt, mud        |
+| $\underbrace{冷}_{つめ}たい$  | cold (to touch)  |
+| $\underbrace{零}_{れい}$    | zero (degrees)   |
+| $\underbrace{橋}_{はし}$    | bridge           |
+| $\underbrace{景色}_{けしき}$  | view / scenery   |
+| $\underbrace{高い}_{たかい}$  | high / tall      |
+| $\underbrace{渡}_{わた}ります$ | cross (a bridge) |
+
+> ⚠️ Note: Some weather terms like **せんそう** appear to be typos (should be **気温** or **温度**), but since they’re written in hiragana in your original, they’re not braced. Consider correcting them later.
+
+---
+
+### 🎎 Nature & Outdoors
+
+| Japanese | English |
+| -------- | ------- |
+| やま | mountain |
+| みずうみ | lake |
+| せんりょく | scenic view |
+| あらし | storm, wind |
+| き | tree |
+| はな | flower |
+| もり | forest |
+
+---
+
+### 📅 Seasonal & Forecast Terms
+
+
+| Japanese                     | English                   |
+| ---------------------------- | ------------------------- |
+| $\underbrace{春}_{はる}$        | haru                      |
+| $\underbrace{夏}_{なつ}$        | natsu                     |
+| $\underbrace{秋}_{あき}$        | aki                       |
+| $\underbrace{冬}_{ふゆ}$        | fuyu                      |
+| $\underbrace{紅葉}_{もみじ}$      | autumn leaves (maple)     |
+| $\underbrace{天気予報}_{てんきよほう}$ | weather forecast          |
+| きょう                          | today                     |
+| あした                          | tomorrow                  |
+| もっと                          | more                      |
+| $\underbrace{上}_{あ}がる$       | rise (temp)               |
+| $\underbrace{下}_{さ}がる$       | drop (temp)               |
+| $\underbrace{晴}_{は}れそう$      | looks like it’ll clear up |
+| $\underbrace{雨}_{あめ}そう$      | looks like rain           |
+
+---
+
+1) **What’s the weather like today?** ☀️🌧  
+
+$$きょうの\quad\underbrace{天気}_{てんき}は\quadどうですか？$$  
+- 天気 = weather  
+- どう = how  
+
+💡 Perfect for morning small talk or checking plans.
+
+---
+
+2) **It’s sunny today!** 🌞  
+
+$$きょうは\quad\underbrace{晴}_{は}れ\quadです！$$  
+- 晴れ = clear / sunny  
+
+💡 Use this when skies are blue—great for hiking or temple visits.
+
+---
+
+3) **Tomorrow will be cloudy.** ⛅  
+
+$$あしたは\quad\underbrace{曇}_{くも}り\quadです。$$  
+- 曇り = cloudy  
+
+💡 Helps adjust expectations for outdoor activities.
+
+---
+
+4) It’s getting colder. ❄️  
+
+$$もっと\quad\underbrace{寒}_{さむ}く\quadなります。$$
+
+- もっと = more
+- 寒い = cold (air temperature)  
+- なります = will become  
+
+💡 Useful in autumn (October) when temperatures drop at night.
+
+---
+
+5) There’s fog in the mountains. 🌫🏔  
+
+$$\underbrace{山}_{やま}には\underbrace{霧}_{きり}が\quadあります。$$  
+- 山 = mountain  
+- 霧 = fog, mist  
+
+💡 Common in Takayama or Arashiyama early in the morning.
+
+---
+
+6) The autumn leaves are beautiful! 🍁  
+
+$$\underbrace{紅葉}_{もみじ}が\quadとても\quad\underbrace{美}_{うつく}しい\quadです！$$  
+- 紅葉 = autumn leaves (maple)  
+- 美しい = beautiful  
+
+💡 Say this in Kyoto, Nikko, or Takayama during peak foliage.
+
+---
+
+7) Is it going to rain? 🌧  
+
+$$\underbrace{雨}_{あめ}が\quadふるん\quadですか？$$
+
+- 雨 = rain  
+- ふる = to fall (for rain/snow)  
+
+💡 Ask before heading out for the day.
+
+---
+
+8) The wind is strong. 💨  
+
+$$\underbrace{風}_{かぜ}が\quad\underbrace{強}_{つよ}い\quadです。$$  
+- 風 = wind  
+- 強い = strong  
+
+💡 Common near the coast or in open areas.
+
+---
+
+9) What a scenic view! 🏞  
+
+$$\underbrace{景色}_{せんりょく}が\quadすばらしい！$$  
+- 景色 = scenic view  
+
+💡 Natural reaction at viewpoints like Arashiyama or Lake Biwa.
+
+---
+
+10) The forest is peaceful. 🌲  
+
+$$\underbrace{森}_{もり}は\quadしずか\quadです。$$  
+- 森 = forest  
+- しずか = peaceful / quiet
+
+💡 Perfect for walks in bamboo groves or temple grounds.
+
+---
+
+11) It looks like it’ll clear up soon. 🌤  
+
+$$\underbrace{晴}_{は}\quadれそうですね。$$  
+- 晴れそう = looks like it’ll be clear  
+
+💡 Gives hope after a rainy morning!
+
+---
+
+12) **I love this season.** 🍂  
+
+$$この\quad\underbrace{季節}_{きせつ}が\quad\underbrace{大好}_{だいす}きです。$$  
+- 季節 = season  
+- 大好き = love  
+
+💡 Great for chatting with locals about autumn in Japan.
+
+---
+
+ 13) We don't see many deer in the forest.  
+ 
+$$\underbrace{森}_{もり}には\quadあまり\quad \underbrace{鹿}_{しか}が\quadいません。$$
+
+- 森 = forest
+- あまり = not very / not many  
+- 鹿 = deer  
+- いません = are not (animate objects)
+
+================================================================
+🍣 Restaurant.md
+================================================================
+
+### 🍣 Restaurant
+
+| Japanese                                 | English                |
+| ---------------------------------------- | ---------------------- |
+| めしあがれ                                    | please eat!            |
+| ごちそうさまでした                                | thank you for the meal |
+| からい                                      | spicy                  |
+| あまい                                      | sweet                  |
+| なま                                       | raw                    |
+| おすすめ                                     | recommendation         |
+| おあいそ                                     | check, bill            |
+| たべもの                                     | food                   |
+| $\underbrace{メニュー}_{MENU}$               | menu                   |
+| $\underbrace{レストラン}_{RESUTORAN}$         | restaurant             |
+| $\underbrace{テーブル}_{TĒBURU}$             | table                  |
+| $\underbrace{料理}_{りょうり}$                 | cuisine                |
+| $\underbrace{食}_{た}べます$                  | eat                    |
+| $\underbrace{食}_{た}べたい$                  | want to eat            |
+| それから                                     | and then / after that  |
+| $\underbrace{抹茶}_{まっちゃ}$                 | matcha (green tea)     |
+| $\underbrace{アイス}_{AISU}$                | ice cream              |
+| $\underbrace{少々}_{しょうしょう}$               | a little while         |
+| $\underbrace{美味}_{おい}しそう$                | looks delicious        |
+| 今                                        | now                    |
+| $\underbrace{一番}_{いちばん}$                 | number one / most      |
+| $\underbrace{朝食}_{ちょうしょく}$               | breakfast              |
+| $\underbrace{昼}_{ひる}ごはん$                 | lunch                  |
+| $\underbrace{晩}_{ばん}ごはん$                 | dinner                 |
+| $\underbrace{寿司}_{すし}$                   | sushi                  |
+| $\underbrace{大好}_{だいす}き$                 | really like / love     |
+| $\underbrace{日本}_{にほん}$                  | Japan                  |
+| $\underbrace{食べ物}_{たべもの}$                | food                   |
+| $\underbrace{好}_{す}き$                    | like / love            |
+| $\underbrace{英語}_{えいご}$                  | English                |
+| $\underbrace{一}_{いち}\underbrace{番}_{ばん}$ | number one / most      |
+| $\underbrace{少}_{すこ}し$                   | a little               |
+| $\underbrace{茶}_{ちゃ}$                    | green tea              |
+| $\underbrace{注文}_{ちゅうもん}$                | order                  |
+| $\underbrace{飲み放題}_{のみほうだい}$             | all-you-can-drink      |
+
+---
+
+1) **I really like sushi.** 🍣♥️
+
+$$\underbrace{寿司}_{すし}は \quad \underbrace{大}_{だい}\underbrace{好}_{す}きです。$$
+
+- 寿司 = sushi
+- 大好きです = really like / love
+
+💡 _We use **は (wa)** because it marks "sushi" as the topic of the sentence — we're making a general statement about sushi, like "As for sushi, I really like it."_
+
+- _We don’t use **が (ga)** here because it would emphasize sushi as the specific subject (e.g., "Sushi, not something else, is what I like"), which is unnecessary in a simple expression of preference._
+
+---
+
+2) **We have a reservation for three at 7 PM. It’s under Omar.** 🕖3️⃣
+
+$$19\underbrace{時}_{じ}に\quad 3\underbrace{人}_{にん}で\quad\underbrace{予約}_{よやく}\quadしています。オマール です。$$
+
+- 19時 = 7 PM (24-hour clock)
+- 3人 = three people
+- 予約 = reservation
+- しています = have / are holding (ongoing state)
+
+---
+
+3) **Which restaurant do you recommend around here?** 🗺️🍽
+
+$$この \underbrace{近}_{ちか}くで\quad お\underbrace{勧}_{すす}めの\quad\underbrace{レストラン}_{RESUTORAN}は\quadどこ ですか？$$
+
+- 近く = nearby / around here
+- おすすめ = recommendation
+
+---
+
+4) **I like Japanese food.** 🍜♥️
+
+$$\underbrace{日本}_{にほん}の\quad\underbrace{食べ物}_{たべもの}は\quad\underbrace{好}_{す}きです。$$
+
+- 食べ物 = food
+- 好き = like / love
+
+💡 A great way to express enthusiasm for Japanese cuisine, similar to your sushi phrase.
+
+---
+
+5) **Do you have the English menu?** 🇬🇧📜
+
+$$\underbrace{英語}_{えいご}の\quad\underbrace{メニュー}_{MENYUU}は\quad ありますか？$$
+
+- 英語 = English
+- メニュー = menu
+- ありますか = is there? / do you have? (polite question)
+
+💡 A polite and practical phrase for tourists in restaurants, especially useful when navigating menus in Japan.
+
+---
+
+6) **The best sushi I've ever had!** 🏆
+
+$$\underbrace{今}_{いま}まで\quadで\quad\underbrace{一}_{いち}\underbrace{番}_{ばん}\quadおいしい\quad\underbrace{寿司}_{すし} です！$$
+
+- 今まで = until now
+- 一番 = number one / most
+- おいしい = delicious
+
+---
+
+7) **(A table) for 3, please.** 3️⃣🙏
+
+$$3\underbrace{人}_{にん}で\quadお\underbrace{願}_{ねが}いします。$$
+
+- 3人で = for three people (understood in context)
+- お願いします = please
+
+💡 Short and natural — commonly used in restaurants. The word "table" is implied.
+
+---
+
+8) **A table for 3, please!** 3️⃣🙏
+
+$$3\underbrace{人}_{にん}で \underbrace{テーブル}_{TĒBURU}、お\underbrace{願}_{ねが}いします！$$
+
+- 3人で = for three people
+- テーブル = table
+- お願いします = please
+
+💡 This version includes "テーブル" (table) for clarity, while keeping the natural and polite phrasing. Perfect for saying in a restaurant.
+
+---
+
+9) **Please wait a moment.** ⏳
+
+$$\underbrace{少々}_{しょうしょう}\quadお\underbrace{待}_{ま}ち ください。$$
+
+- 少々 = a little while
+- お待ちください = please wait
+
+💡 Polite, often used in shops or restaurants.
+
+---
+
+10) **What kind of sushi do you recommend?** 🍣🍱❓
+
+$$どんな\quad\underbrace{寿司}_{すし}が \quad お\underbrace{勧}_{すす}めですか？$$
+
+- おすすめ = recommendation
+
+---
+
+11) **It looks delicious!** 💯
+
+$$とても \quad \underbrace{美味}_{おい}し\quadそう！$$
+
+- とても = very
+- 美味しそう！ = looks delicious! (～そう = "seems like")
+
+---
+
+12) **Please give me a little wasabi.** 🟢
+
+$$わさびを\quadもう\quad\underbrace{少}_{すこ}し\quadください。$$
+
+- わさび = wasabi
+- 少し = a little
+
+---
+
+14) **Excuse me, what restaurant do you recommend?** 🗺
+
+$$すみません、お\underbrace{勧}_{すす}めの\quad\underbrace{レストラン}_{RESUTORAN}は\quadどこですか？$$
+
+- おすすめ = recommendation
+- レストラン = restaurant
+
+💡 *Tip: **どちら (docchira)** = used when choosing between **two options**, or for more polite/formal situations
+
+---
+
+15) **I love sushi. In addition, I like tempura too.** 🍤
+
+$$\underbrace{寿司}_{すし}が\quad\underbrace{大好}_{だいす}きです。さらに、\underbrace{天}_{てん}ぷらも\quad\underbrace{好}_{す}きです。$$
+
+- 寿司 = sushi
+- 大好き = really like / love
+- さらに = furthermore / in addition
+- てんぷら = tempura
+- 好き = like
+
+💡 Ideal for sharing food preferences at a restaurant or food market, making conversations lively and relatable with locals.
+
+---
+
+16) **I’ll eat sushi. And then, I want to eat matcha ice cream.** 🍣
+
+$$\underbrace{寿司}_{すし}を\quad\underbrace{食}_{た}べます。それから、\underbrace{抹茶}_{まっちゃ}\underbrace{アイス}_{AISU}を\quad\underbrace{食}_{た}べたい \quad です。$$
+
+- 寿司 = sushi
+- 食べます = eat (polite present/future tense)
+- それから = and then / after that
+- 抹茶 = matcha (green tea)
+- アイス = ice cream
+- 食べたい = want to eat
+
+💡 Useful when chatting with locals at a restaurant or café to describe your meal plans in a friendly, sequential way.
+
+---
+
+17) Where is the toilet? 🚻 
+
+$$\underbrace{トイレ}_{TOIRE}は\quadどこですか？$$
+
+- トイレ = toilet / bathroom  
+- ですか = question marker (polite)
+
+💡 This is the most common and natural way to ask in Japan—used in restaurants, train stations, shops, etc. While **お手洗い** (*otearai*) is a more polite euphemism, **トイレ** is widely understood, neutral, and perfectly appropriate in everyday situations.
+
+---
+
+17) I’ll have tempura and green tea. 🍤🍵  
+
+$$\underbrace{天}_{てん}ぷらと\quadお\underbrace{茶}_{ちゃ}を\quad\underbrace{注文}_{ちゅうもん}します。$$
+
+- お茶 = green tea (standard hot tea served in most restaurants)  
+- 注文します = will order  
+
+💡 **Notes**:  
+- This is polite and appropriate for casual or mid-range restaurants.  
+- If you want to specify **matcha** (powdered green tea), say **抹茶**（まっちゃ）instead of お茶.  
+- In very casual settings, you could also say: 「てんぷらとお茶、お願いします。」  
+
+---
+
+18) All-you-can-drink for everyone, please. 🍵🍶
+
+$$みんなの\quad\underbrace{飲み放題}_{のみほうだい}を\quadお\underbrace{願}_{ねが}いします。$$
+
+- みんな = everyone
+- 飲み放題 = all-you-can-drink (nomihōdai)  
+- お願いします = please  
+
+---
+
+19) He said "welcome back!"
+
+$$彼は「おかえりなさい」って\underbrace{言}_{い}った。$$
+
+- って = quotative particle. (in casual Japanese)
+- 言 = say
+
+---
+
+20) Close the door when you leave.
+
+$$\underbrace{出}_{で}る\quadときに\quadドアを\quad\underbrace{閉}_{し}めて\quadください。$$
+  
+- 出る (でる) = to leave / go out  
+- とき = time / when  
+- ドア = door  
+- 閉めて (しめて) = close (te-form)  
+
+---
+
+21) It's very delicious!
+
+$$めっちゃ\quad \underbrace{美味}_{おい}しかった！$$
+
+- めっちゃ = a lot (casual form)
+- 美味しかった = was delicious (past tense of おいしい)  
+
+💡 Note: **うまい** is more casual and often used by men.
+
+---
+
+================================================================
+🏨 Hotel.md
+================================================================
+
+### 🏨 Hotel
+
+| Japanese                             | English                  |
+| ------------------------------------ | ------------------------ |
+| とても                                  | very                     |
+| から                                   | from                     |
+| ありますか                                | is there? / do you have? |
+| $\underbrace{チェックイン}_{CHEKKU-IN}$    | check-in                 |
+| $\underbrace{チェックアウト}_{CHEKKU-AUTO}$ | check-out                |
+| $\underbrace{Wi-Fi}_{WAI-FAI}$       | Wi-Fi                    |
+| $\underbrace{予約}_{よやく}$              | reservation / booking    |
+| 何時                                   | what time                |
+| $\underbrace{場所}_{ばしょ}$              | place                    |
+| $\underbrace{部屋}_{へや}$               | room                     |
+
+---
+
+1) **This place is beautiful.** ✨
+
+$$この\quad\underbrace{場所}_{ばしょ}は\quadとても\quad\underbrace{美}_{うつく}しいです。$$
+
+- 場所 = place
+- 美しい = beautiful
+- とても = very
+
+---
+
+2) **We booked a room for 3.** 🛏️
+
+$$3\underbrace{人}_{にん}で\quad\underbrace{部屋}_{へや}を\quad\underbrace{予約}_{よやく}しました。$$
+
+- 3人 = three people  
+- 部屋 = room  
+- 予約しました = booked
+
+---
+
+3) **What time can I check-in?** 🏨
+
+$$\underbrace{チェックイン}_{CHEKKU-IN}は\quad\underbrace{何時}_{なんじ}\quadから\quadですか？$$
+
+- チェックイン = check-in
+- 何時 = what time
+- から = from
+
+---
+
+4) **What time is breakfast?** 🍳
+
+$$\underbrace{朝食}_{ちょうしょく}は\quad\underbrace{何時}_{なんじ}\quadから\quadですか？$$
+
+- 朝食 = breakfast
+- 何時 = what time
+- から = from
+
+💡 Useful for hotel guests checking breakfast hours.
+
+|English (meal/food)|Japanese (ごはん)|Lexical Breakdown|
+|---|---|---|
+|Breakfast|朝ごはん (あさごはん)|朝 (あさ) = morning|
+|Lunch|昼ごはん (ひるごはん)|昼 (ひる) = midday/noon|
+|Dinner|晩ごはん (ばんごはん)|晩 (ゆう) = ばん|
+
+---
+
+5) Good afternoon. We have a reservation.  
+
+$$こんにちは。\underbrace{予約}_{よやく}しています。$$
+
+- こんにちは = hello / good afternoon  
+- 予約 (よやく) = reservation  
+- しています = am doing (here, "have reserved")
+
+---
+
+6) **Is there Wi-Fi?** 📶
+
+$$\underbrace{Wi-Fi}_{WAI-FAI}は\quadありますか？$$
+
+- Wi-Fi = Wi-Fi
+- ありますか = is there?
+
+💡 A must-know for travelers needing internet access.
+
+---
+
+================================================================
+🚀 General.md
+================================================================
+
+### 🚀 Essential Verbs & Daily Life
+
+| Japanese                    | English               |
+| --------------------------- | --------------------- |
+| スマホ                         | smartphone            |
+| モバイル                        | mobile                |
+| チャージ                        | charge / top up       |
+| $\underbrace{来}_{き}ました$     | came                  |
+| $\underbrace{行}_{い}きます$     | go                    |
+| $\underbrace{見}_{み}たいです$    | want to see           |
+| $\underbrace{予約}_{よやく}$     | reservation / booking |
+| $\underbrace{見}_{み}つかりません$  | cannot find           |
+| $\underbrace{撮}_{と}ります$     | take (photos)         |
+| $\underbrace{用意}_{ようい}$     | prepare               |
+| $\underbrace{目的}_{もくてき}$    | purpose               |
+| $\underbrace{荷物}_{にもつ}$     | luggage               |
+| $\underbrace{受け取}_{うけと}ります$ | pick up               |
+| $\underbrace{充電}_{じゅうでん}$   | charge (battery)      |
+
+---
+
+1)  **Where can I charge my phone?** 📱
+
+$$\underbrace{スマホ}_{SUMAHO}を\quad\underbrace{充電}_{じゅうでん}\quadできる\quad\underbrace{場所}_{ばしょ}は\quadどこですか？$$
+
+- スマホ = smartphone (common abbreviation for スマートフォン)
+- 充電 = charge (battery)
+- できる = can do / possible
+- 場所 = place / location
+- どこ = where
+- ですか = question marker (polite)
+
+💡 Useful in public places like train stations, airports, or cafes when asking locals or staff for charging spots, such as power outlets or USB ports. A more casual version: スマホの充電どこ？
+
+---
+
+2) Excuse me!
+
+$$すみません$$
+
+💡 Informal, suitable for calling the waiter.
+
+---
+
+3) **I’m sorry.** 😔
+
+$$すみませんでした。$$
+
+- でした = past tense (makes it more polite/formal)
+
+---
+
+4) I'm so sorry.
+
+$$ごめんなさい$$
+
+💡Tip:
+- 「ごめんなさい」expresses personal regret to people close to you, 
+- 「すみませんでした」politely acknowledges inconvenience in formal or social situations.
+
+---
+
+5) **I deeply apologize.** 😭
+
+$$\underbrace{申}_{もう}し\underbrace{訳}_{わけ}\quadありません。$$
+
+- 申し訳 = apology, excuse
+- ありません = there is not
+
+💡 _This is a common and humble way to say "I'm truly sorry." While "owabi" (お詫び) is correct and used in formal apologies, it's usually part of longer phrases like "お詫びします." The most natural standalone apology is "申し訳ありません."_
+
+---
+
+6) **Thank you very much.** 🙏
+
+$$どうも\quadありがとう\quadございました。$$
+
+- どうも = very / greatly
+- ありがとうございました = thank you (past tense, formal)
+
+💡 _Tip: Use this after someone has helped you — it’s polite and commonly used in daily life._
+
+---
+
+7) I can drive a car. 🚗
+
+$$\underbrace{車}_{くるま}を\quad \underbrace{運転}_{うんてん}\quadできます。$$
+
+- 車 = car  
+- 運転 = drive (as a verb stem; 運転する = to drive)  
+- できます = can do / am able to  
+
+---
+
+8) Is there a vending machine here? 🥤  
+
+$$ここに\quad\underbrace{販売機}_{はんばいき}は\quadありますか？$$
+
+- 販売機 = vending machine (generic term)  
+- ありますか = is there?  
+
+💡 **Note**: While **販売機** (*hanbaiki*) is technically correct, in everyday Japanese people almost always say **自動販売機** (*jidō hanbaiki*) for drink/snack vending machines. If you’re looking for a drink machine, it’s more natural to ask:
+
+---
+
+================================================================
+🚄 Train Station.md
+================================================================
+
+### 🚄 Train & Public Transport
+
+| Japanese                        | English                      |
+| ------------------------------- | ---------------------------- |
+| プラットホーム                         | platform                     |
+| $\underbrace{着}_{つ}きました$        | arrived                      |
+| $\underbrace{切符}_{きっぷ}$         | ticket                       |
+| $\underbrace{乗り換}_{のりか}え$       | transfer                     |
+| $\underbrace{地下鉄}_{ちかてつ}$       | metro / subway               |
+| $その\underbrace{間}_{あいだ}$        | meanwhile / during that time |
+| $\underbrace{乗車}_{じょうしゃ}$       | boarding (a train)           |
+| $\underbrace{時間表}_{じかんひょう}$     | timetable                    |
+| $\underbrace{降}_{お}ります$         | get off (a train)            |
+| $\underbrace{急行}_{きゅうこう}$       | express (train)              |
+| $\underbrace{券売機}_{けんばいき}$      | ticket vending machine       |
+| $\underbrace{自動販売機}_{じどうはんばいき}$ | vending machine              |
+
+> ✅ Note: **げんか** appears in your file as hiragana-only, so it stays unbraced. If you later change it to **運賃**, it would become $\underbrace{運賃}_{うんちん}$.
+
+---
+
+1)  **Where can I buy a ticket?** 🎫💸
+
+$$\underbrace{切符}_{きっぷ}は\quadどこで\quad\underbrace{買}_{か}えますか？$$
+
+- 切符 = ticket
+- 買えます = can buy
+
+---
+
+2) **Is there a ticket vending machine?**
+
+$$\underbrace{券売機}_{けんばいき}が\quadありますか？$$
+
+- (自動) 券売機 = vending machine for tickets
+
+💡 _Vending machine (for tickets) = automatic (self + motion) + ticket + sell + machine_
+
+---
+
+3) **One ticket to Osaka Station, please.** 🎫
+
+$$\underbrace{大阪}_{おおさか}\underbrace{駅}_{えき}\quadまで\quadの\quad \underbrace{切符}_{きっぷ}を\quad\underbrace{一}_{いち}\underbrace{枚}_{まい}\quadください。$$
+
+- 大阪駅 = Osaka Station
+- まで = until / to
+- 切符 = ticket
+- 一枚 = one (flat object)
+
+---
+
+4) **What time is the next train?** ➡️🚄❓
+
+$$\underbrace{次}_{つぎ}の\quad\underbrace{電車}_{でんしゃ}は\quad\underbrace{何時}_{なんじ}\quadですか？$$
+
+- 次 = next
+- 電車 = train
+- 何時 = what time
+
+---
+
+5) **The next train is at 14:30.** ➡️🚄
+
+$$\underbrace{次}_{つぎ}の\quad\underbrace{電車}_{でんしゃ}は\quad14\underbrace{時}_{じ}30\underbrace{分}_{ぷん}\quadです。$$
+
+- 次 = next
+- 電車 = train
+- 14時30分 = 14:30 (2:30 PM)
+
+---
+
+6) **Does this train go to Osaka?** 🚉❓
+
+$$この\quad\underbrace{電車}_{でんしゃ}は\quad\underbrace{大阪}_{おおさか}に\quad\underbrace{行}_{い}きますか？$$
+
+- 行きますか？ = does it go?
+
+---
+
+7) **Is this train an express?** 🚅
+
+$$この\quad\underbrace{電車}_{でんしゃ}は\quad\underbrace{急行}_{きゅうこう}ですか？$$
+
+- 急行 = express (train)
+- ですか = question marker
+
+💡 Helpful for confirming train types to avoid slower local trains.
+
+---
+
+8) **Can I use an IC card?** 💳
+
+$$\underbrace{ICカード}_{AISHI-KAADO}を\quad\underbrace{使}_{つか}えますか？$$
+
+- ICカード = IC card (e.g., Suica or Pasmo)
+- 使え = use
+- ますか = ask possibility
+
+💡 Useful for checking if contactless payment cards are accepted for train fares.  
+💡 The **Suica card** is a prepaid, rechargeable contactless smart card issued by JR East. It’s primarily used as a fare card for public transportation (trains, subways, buses, and monorails).
+
+---
+
+9) **(I) will get off (the train).** 🚉➡️
+
+$$\underbrace{降}_{お}ります。$$
+
+- 降ります = get off
+
+---
+
+10) **Where is the metro?** 🚇
+
+$$\underbrace{地下鉄}_{ちかてつ}は\quadどこですか？$$
+
+- 地下鉄 = metro / subway
+
+💡 A simple and practical question for finding the metro station in a new city.
+
+---
+
+11) **I’m going to Tokyo Station by metro.** 🚇
+
+$$\underbrace{地下鉄}_{ちかてつ}で\quad\underbrace{東京}_{とうきょう}\underbrace{駅}_{えき}に\quad\underbrace{行}_{い}きます。$$
+
+- 地下鉄で = by metro (で indicates means of transport)
+- 東京駅 = Tokyo Station
+- 行きます = go
+
+💡 A straightforward sentence for stating your travel plans using the metro.
+
+---
+
+12) **I’ll wait for the train. Meanwhile, I’ll take photos.** 🚉
+
+$$\underbrace{電車}_{でんしゃ}を\quad\underbrace{待}_{ま}ちます。$$
+$$その\underbrace{間}_{あいだ}、\underbrace{写真}_{しゃしん}を\quad\underbrace{撮}_{と}ります。$$
+
+- 電車 = train
+- 待ちます = wait (polite present/future tense)
+- その間 = during that time / meanwhile
+- 写真 = photo
+- 撮ります = take (photos, polite present/future tense)
+
+💡 Handy at a train station to share what you’re doing while waiting, making it easy to connect with locals or staff.
+
+---
+
+13) Do I get off here?
+
+$$ここで\quad\underbrace{降}_{お}りれば\quadいいですか？$$  
+- ここで = here  
+- 降りれば = if I get off (conditional form of 降りる)  
+- いいですか = is it OK? / should I?
+
+💡 This is polite, clear, and works for **both trains and buses**. Locals use this exact phrasing!
+
+---
+
+================================================================
+🚥 Directions.md
+================================================================
+
+### 🚥 General Travel & Directions
+
+| Japanese                  | English                   |
+| ------------------------- | ------------------------- |
+| $\underbrace{一人}_{ひとり}$   | alone                     |
+| $\underbrace{入り口}_{いりぐち}$ | entrance                  |
+| $\underbrace{出口}_{でぐち}$   | exit                      |
+| $\underbrace{道}_{みち}$     | road, way                 |
+| $\underbrace{危}_{あぶ}ない$   | dangerous                 |
+| $\underbrace{次}_{つぎ}$     | next                      |
+| $\underbrace{合}_{あ}ってます$  | is correct                |
+| $\underbrace{暗}_{くら}い$    | dark                      |
+| $\underbrace{前}_{まえ}$     | before, front             |
+| $\underbrace{後}_{うし}ろ$    | behind                    |
+| $\underbrace{橋}_{はし}$     | bridge                    |
+| $\underbrace{中}_{なか}$     | inside / in (a condition) |
+| $\underbrace{導}_{みちびき}$   | guidance, <br>directions  |
+| $\underbrace{街道}_{かいどう}$  | main road / highway       |
+
+---
+
+1) **Turn left, then go straight, then turn right.** ⬅️⬆️➡️
+
+$$\underbrace{左}_{ひだり}に\quad\underbrace{曲}_{まが}って、まっすぐ\quad \underbrace{行}_{い}って、\underbrace{右}_{みぎ}に\quad\underbrace{曲}_{まが}って\quadください。$$
+
+- 左 = left
+- 右 = right
+- 曲がって = turn (after)
+- まっすぐ = straight
+- 行って = go (te-form)
+
+---
+
+2) **Which way is the exit?** 🚪
+
+$$\underbrace{出口}_{でぐち}は\quadどちら ですか？$$
+
+- 出口 = exit
+
+💡 どちら = which way (when choosing between two directions)
+
+---
+
+3) **I can't find the entrance.** 🚪😓
+
+$$\underbrace{入り口}_{いりぐち}が\quad\underbrace{見}_{み}つかりません。$$
+
+- 入り口 = entrance
+- 見つかりません = cannot find (polite, negative form of 見つかる, "to be found")
+
+---
+
+4) **Where is the closest train station?** 🚂
+
+$$\underbrace{最寄}_{もよ}りの\quad\underbrace{駅}_{えき}は\quadどこ ですか？$$
+
+- 最寄り = nearest / closest
+- 駅 = station
+
+---
+
+5) **Stop at the traffic light.** 🚦
+
+$$\underbrace{信号}_{しんごう}で\quad\underbrace{止}_{と}まって\quadください。$$
+
+- 信号 = traffic light
+- 止まって = stop (te-form)
+
+---
+
+6) **It's dangerous to go alone in the dark.** ⚠️
+
+$$\underbrace{暗}_{くら}い\quad\underbrace{中}_{なか}を\quad一人で\quad\underbrace{行}_{い}くのは\quad\underbrace{危}_{あぶ}ないよ。$$
+
+- 暗い = dark
+- 中 = inside / in (a place or condition) → 暗い中 = in the dark
+- 一人 = alone
+- 危ない = dangerous
+
+---
+
+7) **Is this the right way?** 🛤
+
+$$この\quad\underbrace{道}_{みち}で\underbrace{合}_{あ}っていますか？$$
+
+- 道 = road / way
+- 合っています = is correct / is right
+
+💡 Useful when confirming directions to avoid getting lost.
+
+---
+
+8) **Where is the bathroom?** 🚻
+
+$$\underbrace{トイレ}_{TOIRE}は\quadどこですか？$$
+
+- トイレ = toilet / bathroom
+- どこ = where
+
+💡 A critical phrase for travellers in any public place.
+
+---
+
+================================================================
+🛍 Shopping.md
+================================================================
+
+### 🛍️ Shopping & Money
+
+| Japanese                 | English         |
+| ------------------------ | --------------- |
+| かいもの                     | shopping        |
+| げんきん                     | cash            |
+| おつり                      | change          |
+| $\underbrace{入}_{い}れます$  | put in          |
+| $\underbrace{袋}_{ふくろ}$   | bag             |
+| $\underbrace{鑑定}_{かんてい}$ | appraisal       |
+| $\underbrace{売場}_{うりば}$  | sales counter   |
+| わいづ                      | tax-free        |
+| $\underbrace{試}_{ため}せます$ | can I try (on)? |
+
+---
+
+1) **How much is it?** 💰
+
+$$いくら\quadですか？$$
+
+- いくら = how much
+
+💡 A simple, essential phrase for shopping or checking prices
+
+---
+
+2) **I will buy this.** 💸
+
+$$これを\quad\underbrace{買}_{か}います。$$
+
+- 買います = will buy / buy (present/future)
+
+---
+
+3) **Would you like it in a bag?** 🛍
+
+$$\underbrace{袋}_{ふくろ}に\quad\underbrace{入}_{い}れますか？$$
+
+- 袋 = bag
+- 入れます = put in
+- か = question marker
+
+💡 Commonly heard from shop staff; understanding it helps in shopping scenarios.
+
+---
+
+4) Do you accept credit cards? 💳  
+
+$$\underbrace{クレジットカード}_{KUREJITTO-KĀDO}は\quad\underbrace{使}_{つか}えますか？$$
+
+- クレジットカード = credit card  
+- 使えますか = can (I) use? / do you accept?
+
+---
+
+**5) Can I try this on?** 👕  
+$$これを\quad\underbrace{試}_{ため}せますか？$$
+
+- 試せますか = can I try (it)? (potential form of 試す)  
+
+---
+
