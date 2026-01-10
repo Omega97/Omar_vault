@@ -3,9 +3,9 @@
 
 
 Sometimes LLMs get stuck in a loop where they **repeat the same token** over and over again. 
-$$\text{The slovenian word for a female teacher is "učitelj\_ica\_ica\_ica\_ica\_ica\_ica...}
+$$\text{The Slovenian word for a female teacher is "učitelj\_ica\_ica\_ica\_ica\_ica\_ica...}
 $$
-My goal si to study why these models get stuck in these single-token loops. I've had an interesting idea about combining Statistical Mechanics (SM) with LLMs, in a framework that does not explicitly depend on a specific input, but rather uses a portion of the training dataset instead.
+My goal is to study why these models get stuck in these single-token loops. I've had an interesting idea about combining Statistical Mechanics (SM) with LLMs, in a framework that does not explicitly depend on a specific input, but rather uses a portion of the training dataset instead.
 
 > We can take a layer of activations $q$ (a vector of length $N$) as a representative point for the system. The energy $H$ is the probability of outputting the **correct** token (as given by the dataset) minus the probability of outputting the **last** token of the input: 
 $$
@@ -106,5 +106,5 @@ This framework could **unify these**: e.g., show that attention collapse causes 
 - The temperature $T(E)$ could be used to estimate the minimum sampling temperature for a model to avoid getting stuck.
 - We can change the sampling temperature without re-running the model. This lets us re-compute all the TD functions **also** as a function of $T_{\text{sam}}$ .
 - The framework may be able to identify a phase transition threshold, where one can find the optimal sampling temperature $T_{\text{sam}}$ to avoid stuttering **without** re-running the LLM.
-
+- Try changing the formula for energy
 
