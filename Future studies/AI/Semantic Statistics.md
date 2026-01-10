@@ -2,16 +2,24 @@
 # Semantic Statistics
 
 
+### Abstract
+
+> This novel framework that I call **Se**mantic **Sta**tistics (SeSta) applies principles from statistical mechanics (SM) to understand why large language models (LLMs) fall into repetitive generation patterns, such as endlessly repeating tokens (also called *stuttering*). Rather than analyzing models through a specific input, this approach treats neural activations as positions in a thermodynamic phase space with a custom energy function. By calculating fundamental thermodynamic quantities like entropy, temperature, and heat capacity across a model's activation manifold, this framework aims to uncover the intrinsic properties that lead to repetition without input dependency. Initial applications include diagnosing architectural vulnerabilities to repetition loops, identifying critical temperature thresholds where phase transitions between creative and repetitive behavior occur, and potentially guiding sampling strategies that avoid these failure modes. This approach provides concrete metrics for model evaluation and improvement that can help with efficient hyperparameter tuning.
+
+---
+
+### Introduction
+
 Sometimes LLMs get stuck in a loop where they **repeat the same token** over and over again. 
 $$\text{The Slovenian word for a female teacher is "učitelj\_ica\_ica\_ica\_ica\_ica\_ica...}
 $$
 My goal is to study why these models get stuck in these single-token loops. I've had an interesting idea about combining Statistical Mechanics (SM) with LLMs, in a framework that does not explicitly depend on a specific input, but rather uses a portion of the training dataset instead.
 
-> We can take a layer of activations $q$ (a vector of length $N$) as a representative point for the system. The energy $H$ is the probability of outputting the **correct** token (as given by the dataset) minus the probability of outputting the **last** token of the input: 
+We can take a layer of activations $q$ (a vector of length $N$) as a representative point for the system. The energy $H$ is the probability of outputting the **correct** token (as given by the dataset) minus the probability of outputting the **last** token of the input: 
 $$
 H(\mathbf{q}) = p_{\text{correct}}(\mathbf{q}) - p_{\text{last}}(\mathbf{q})
 $$
-> This energy is positive if the model is more likely to be correct than to repeat repeats the last token, zero if the model correctly repeats, and negative otherwise. If we run the model on the training data, when it wants to (incorrectly) repeat itself, it would get a negative spike in energy. With this setup we unlock a bridge between LLMs and SM. 
+This energy is positive if the model is more likely to be correct than to repeat repeats the last token, zero if the model correctly repeats, and negative otherwise. If we run the model on the training data, when it wants to (incorrectly) repeat itself, it would get a negative spike in energy. With this setup we unlock a bridge between LLMs and SM. 
 
 ---
 
@@ -93,7 +101,7 @@ This framework could **unify these**: e.g., show that attention collapse causes 
 
 ### Notes
  
-- Which inputs should we use? Random tokens, or the training set?
+- Ideally you should sample randomly from the training set.
 - In this framework we probably don't need the *momenta*.
 - should the position be the input tokens or the activations?
 - What if the problem lies outside of the $\mathcal{Q}$ space?
@@ -102,9 +110,15 @@ This framework could **unify these**: e.g., show that attention collapse causes 
 - What shapes are we expecting? What do they tell about the model?
 - How about volume, which is fixed in the microcanonical ensemble, together with $E$ and $N$?
 - If you want positive energy, just add 1: $H(\mathbf{q}) = p_{\text{correct}}(\mathbf{q}) + \neg \, p_{\text{last}}(\mathbf{q})$
+- Explore alternatives to the formula for energy
+- Manifold learning to help with DE?
 - The temperature $T(E)$ is not the commonly referred-to model sampling temperature $T_{\text{sam}}$ , which is not used on this case.
+- $T_\text{sam}$ is what divides the logits before performing the softmax $p = \text{softmax}(\text{logits} \, / \, T_\text{sam})$
 - The temperature $T(E)$ could be used to estimate the minimum sampling temperature for a model to avoid getting stuck.
 - We can change the sampling temperature without re-running the model. This lets us re-compute all the TD functions **also** as a function of $T_{\text{sam}}$ .
 - The framework may be able to identify a phase transition threshold, where one can find the optimal sampling temperature $T_{\text{sam}}$ to avoid stuttering **without** re-running the LLM.
-- Try changing the formula for energy
+- For stability purposes, first normalize $q$ by dividing it by $\sigma(q)$, then calculate $\Omega^*=\frac{\Omega}{\sigma^N}$, and then $S=\log(\Omega)=\log(\Omega^* \sigma^N)=\log(\Omega^*) + N \, log(\sigma)$. Since the last bit depends only on $N$, we can eliminate it as long as we don't do derivatives wrt $N$.
+- Test framework on GPT-2 #todo make example
+- Comparing the thermodynamic properties of layers at different depths to see where "repetition wells" emerge
+- #todo Connection to training dynamics: I wonder if this framework could be extended to analyze how these TD properties evolve during training, potentially identifying early indicators of models prone to repetition.
 
