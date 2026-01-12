@@ -15,11 +15,13 @@ $$\text{The Slovenian word for a female teacher is "učitelj\_ica\_ica\_ica\_ica
 $$
 My goal is to study why these models get stuck in these single-token loops. I've had an interesting idea about combining Statistical Mechanics (SM) with LLMs, in a framework that does not explicitly depend on a specific input, but rather uses a portion of the training dataset instead.
 
-We can take a layer of activations $q$ (a vector of length $N$) as a representative point for the system. The energy $H$ is the probability of outputting the **correct** token (as given by the dataset) minus the probability of outputting the **last** token of the input: 
+We can take a list of activations $q$ (a vector of length $N$) from the language model as a representative point for the system. The energy $H$ is the probability of outputting the **correct** token (as given by the dataset) minus the probability of outputting the **last** token of the input: 
 $$
 H(\mathbf{q}) = p_{\text{correct}}(\mathbf{q}) - p_{\text{last}}(\mathbf{q})
 $$
-This energy is positive if the model is more likely to be correct than to repeat repeats the last token, zero if the model correctly repeats, and negative otherwise. If we run the model on the training data, when it wants to (incorrectly) repeat itself, it would get a negative spike in energy. With this setup we unlock a bridge between LLMs and SM. 
+This energy is positive if the model is more likely to be correct than to repeat repeats the last token, zero if the model correctly repeats, and negative otherwise. If we run the model on the training data, when it wants to (incorrectly) repeat itself, it would get a negative spike in energy. 
+
+Importantly, to ensure that the energy landscape is continuous and well-behaved, it's important that, among the neurons that we target, there are also **all** the neurons from the last layer (before the output layer). With this setup we unlock a bridge between LLMs and SM. 
 
 ---
 
@@ -117,8 +119,11 @@ This framework could **unify these**: e.g., show that attention collapse causes 
 - The temperature $T(E)$ could be used to estimate the minimum sampling temperature for a model to avoid getting stuck.
 - We can change the sampling temperature without re-running the model. This lets us re-compute all the TD functions **also** as a function of $T_{\text{sam}}$ .
 - The framework may be able to identify a phase transition threshold, where one can find the optimal sampling temperature $T_{\text{sam}}$ to avoid stuttering **without** re-running the LLM.
-- For stability purposes, first normalize $q$ by dividing it by $\sigma(q)$, then calculate $\Omega^*=\frac{\Omega}{\sigma^N}$, and then $S=\log(\Omega)=\log(\Omega^* \sigma^N)=\log(\Omega^*) + N \, log(\sigma)$. Since the last bit depends only on $N$, we can eliminate it as long as we don't do derivatives wrt $N$.
-- Test framework on GPT-2 #todo make example
+- For stability purposes, first normalize $q$ by dividing it by the standard deviation $\sigma(q)$, then calculate $\Omega^*=\frac{\Omega}{\sigma^N}$, and then $S=\log(\Omega)=\log(\Omega^* \sigma^N)=\log(\Omega^*) + N \, log(\sigma)$. 
+- Test framework on GPT-2 #todo make example.
 - Comparing the thermodynamic properties of layers at different depths to see where "repetition wells" emerge
 - #todo Connection to training dynamics: I wonder if this framework could be extended to analyze how these TD properties evolve during training, potentially identifying early indicators of models prone to repetition.
-
+- Potential issue: the energy function $E(q)$ is not well-behaved (similar inputs may have widely different outputs). In principle, if $N$ is high-enough, this should not pose a problem.
+- Defensive Sampling
+- Using the entire last layer makes the energy landscape more well-behaved.
+- Would it be better to use the proba/logits of the output instead of the activations?
