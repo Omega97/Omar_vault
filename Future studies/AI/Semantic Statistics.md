@@ -101,9 +101,20 @@ This framework could **unify these**: e.g., show that attention collapse causes 
 
 ---
 
+### Testing and Experiments
+
+To find out whether this framework could work on LLMs, I will first test it on a simple example: a one-hidden-layer-deep FFNN on a classification task. The energy is defined as:
+
+$$E(q)=-\log p_{correct}$$
+
+where $q$ are all the activations of the hidden layer of the model. The dimensionality is more maneggiabile, and, if the task is perfectly learnable (unique output for each input), then the energy function is also continuous. An example could be a model that takes in a binary vector inputs $\mathbf{x}$, and returns $1$ if the sum of the value is $1$.
+
+---
+
 ### Notes
  
 - Ideally you should sample randomly from the training set.
+- We start from $(\text{dataset}, \text{model}, E)$ to get $(\mathbf{x}_i, \mathbf{q}_i, \mathbf{p}_i, E(\mathbf{q}_i))$
 - In this framework we probably don't need the *momenta*.
 - should the position be the input tokens or the activations?
 - What if the problem lies outside of the $\mathcal{Q}$ space?
