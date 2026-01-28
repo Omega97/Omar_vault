@@ -35,8 +35,9 @@ By following this recipe (standard in SM), we can evaluate the thermodynamical p
 - **Entropy**  $S(E) = \ln \Omega(E)$
 - Inverse temperature $\beta=\frac{\partial S}{\partial E}$
 - **Temperature**  $T(E) = \frac{1}{\beta(T)}$
-- **Heat capacity**: $C(E) = \frac{\partial E}{\partial T}$
+- **Heat capacity (at constant volume)**: $C_V(E) = \frac{\partial E}{\partial T}$
 - **Free Energy** $F(E) = E - T(E)\,S(E)$
+- **Isothermal compressibility** $\kappa=\frac{\partial^2 S(E)}{\partial E^2}$ 
 
 This framework returns **thermodynamic functions of the energy**, while energy itself is nor fixed. The TD quantities themselves are not dependent on any individual input, rather on the model and training dataset. 
 
@@ -104,8 +105,7 @@ This framework could **unify these**: e.g., show that attention collapse causes 
 ### Testing and Experiments
 
 To find out whether this framework could work on LLMs, I will first test it on a simple example: a one-hidden-layer-deep FFNN on a classification task. The energy is defined as:
-
-$$E(q)=-\log p_{correct}$$
+$$H(q)=p_{correct}(q)$$
 
 where $q$ are all the activations of the hidden layer of the model. The dimensionality is more maneggiabile, and, if the task is perfectly learnable (unique output for each input), then the energy function is also continuous. An example could be a model that takes in a binary vector inputs $\mathbf{x}$, and returns $1$ if the sum of the value is $1$.
 
@@ -138,3 +138,21 @@ where $q$ are all the activations of the hidden layer of the model. The dimensio
 - Defensive Sampling
 - Using the entire last layer makes the energy landscape more well-behaved.
 - Would it be better to use the proba/logits of the output instead of the activations?
+- Currently testing on small NNs on every hidden activation with $H(q)=p_{correct}(q)$
+- Connection between TD and LLM scaling laws
+- #todo  given logits and correct answers, we can study the TD for $\beta$ in $[0, 1]$, to find relation between $\beta$ and $\beta_{sam}$
+
+
+$\Omega(E)=\int dq \, 1(H(q)<E)$
+given a small change in Hamiltonian $\delta H$
+$\Omega(E) + \delta \Omega(E)=\int dq \, 1(H(q)+\delta H(q)<E)$
+We can now use the gradient of $H$ to approximate the change in $\Omega$ at the boundary
+$\delta \Omega = -\langle H \rangle_E \, \omega(E)$
+$S(E)=\log(\Omega(E))$
+$S+\delta S=\log(\Omega + \delta \Omega) = \log(\Omega) + \frac{\delta \Omega}{\Omega}= S+\delta \Omega \, e^{-S}$
+$\delta S = \delta \Omega \, e^{-S}$
+
+You are given a matrix of logits $L$, a matrix of probabilities $P$ s.t. $P_i = softmax(\beta_{sam} \, L_i)$, a matrix $C$ of one-hot correct labels for a classification task (all same shape). To get $P$, we first multiply $L$ by the "inverse sampling temperature" $\beta_{sam}$.
+We then define an energy $E=\sum_{ij}{P_{ij} \, C_{ij}}$, the double contraction of the element-wise product of the two.
+Use $E$ as the energy for a microcanonical ensemble. What general relation can you find between $\beta_{sam}$ and the thermodynamic quantities, like $S$, $\beta$, and $T$?
+
