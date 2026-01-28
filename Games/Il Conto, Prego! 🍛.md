@@ -1,11 +1,20 @@
 
+# Il Conto, Prego! 🍛
+
+
 Un gioco *push-your-luck* con bluff, strategia e *portate* per 3-8 giocatori.
+
 
 ---
 
 ## 🎯 Il Gioco in Breve
 
-> A turno, dichiara una o due *portate* (combinazioni di carte dello stesso valore) e rivela obbligatoriamente una di quelle carte dalla tua mano (non il Jolly). Puoi fare un' *ordinazione* (iniziare una nuova *portata* da una sola carta), *speziare* (alzare il rango di una portata esistente) o *abbondare* (aumentarne la quantità aggiungendo una carta alla volta). Se non credi all'ultima dichiarazione, *chiedi il conto* per verificare se la somma delle carte di tutti i giocatori, Jolly inclusi, conferma quanto chiamato. Se la combinazione totale è presente a tavola perde chi ha dubitato, altrimenti perde chi ha mentito.
+> I giocatori cominciano con 6 carte in mano, e dichiarano combinazioni di carte di quantità e rango sempre più alti.
+> Il giocatore di turno può scegliere tra una delle seguenti mosse:
+> - ***Ordinazione***: aggiungi una carta dalla mano al *piatto* (centro del tavolo). Ci sono fino a **due *portate*** in gioco (il *Primo* e il *Secondo*), e sono di ranghi diversi. Se il rango che vuoi dichiarare non è presente sul tavolo, devi prima rivelare una carta di quel rango dalla mano, e posizionarla scoperta sul tavolo.
+> - ***Abbondare***: stai sostituendo un portata con una più grande. Aggiungi +1 alla quantità di una *portata* (puoi anche cambiare il rango). Non puoi rivelare il Jolly.
+> - ***Speziare***: alza il rango di una *portata*. Le carte rivelate restano scoperte sul tavolo.
+> - ***Chiedere il conto***: se non credi all'ultima dichiarazione, *chiedi il conto*, e la mano si chiude. Tutti i giocatori mettono le carte in tavola, e verificano se tra tutte le carte — Jolly inclusi — è presente l'ultima *ordinazione*. Se la combinazione è presente a tavola, perde chi ha dubitato, altrimenti perde chi ha mentito. Tutti gli altri, invece, hanno vinto.
 
 ---
 
@@ -19,66 +28,73 @@ Un gioco *push-your-luck* con bluff, strategia e *portate* per 3-8 giocatori.
 
 ---
 
-## 🗣 Chiamare i Piatti
+## 🔭 Rivelare un Ingrediente
 
-> Questa è la meccanica base del gioco. Ogni turno potrai scegliere di *chiamare dei piatti*. Devi possedere **almeno una carta appartenente a una delle portate chiamate**, e devi rivelarne una (non Jolly). *Chiamare i piatti* consiste nei seguenti passaggi: 
+> Questa è una meccanica fondamentale del gioco. Consiste nel rivelare una carta in mano con un rango diverso da quelle già rivelate. La carta che riveli resterà scoperta sul tavolo per il resto della mano. Non puoi rivelare il Jolly.
 
-- All'inizio del tuo turno, recupera la carta che hai eventualmente rivelato in precedenza (aggiungila di nuovo alla tua mano, nascosta agli altri giocatori).
-    
-- **Chiamare**: dichiari **ad alta voce** una o due combinazioni di carte dello stesso rango. Devi possedere almeno una delle carte che hai chiamato. Per esempio: $$\text{"Un Re e due Assi"}$$
-- **Rivelare**: riveli una delle carte che hai chiamato. In questo esempio: $$\text{*riveli un Re}$$Non puoi rivelare il Jolly.
+---
 
+## 🍝 Le Portate
 
-**Nota bene**:
-   
-- La carta che hai rivelato resta scoperta fino a quando non sarà di nuovo il tuo turno.
-    
-- Puoi scegliere di rivelare la stessa carta che stavi già mostrando (nel qual caso, puoi lasciarla lì dov'è).
-    
-- Non puoi rivelare un Jolly.
-    
-- **Regola della Varietà 🍱**: Non puoi chiamare due *portate* con lo stesso *ingrediente* (rango). 
-	Es: non puoi chiamare "Due 6 e Tre 6"; le *portate* devono essere di ranghi diversi.
+> Le *portate* sono le combinazioni di carte che i giocatori dichiarano. Ce ne sono fino a due (*primo* e *secondo*), e hanno ranghi diversi. Ciascuna *portata* è descritta da un **rango** e una **quantità**.
+
+**Esempio 1**: $$\text{"Due Re e Tre Regine"}$$
+
+---
+
+## 🍽 Il Piatto e il Tavolo
+
+> Il *piatto* è la zona in centro al tavolo, dedicata alle portate. Contiene l'*ingrediente* di ciascuna *portata* (una carta per ciascuna). 
+
+> Tutte le carte rivelate, incluse quelle sul *piatto*, si trovano sul tavolo, e restano scoperte fino a fine mano. Puoi posizionare le carte sul tavolo, che non sono nel *piatto*, attorno ad esso.
 
 ---
 
 ## 👨‍🍳 Azioni di Gioco (Il Glossario dello Chef)
 
-> Il mazziere, e distribuisce le mani. Apre la mano il giocatore a sinistra del mazziere, e si procede in senso orario. Il giocatore di turno deve scegliere una delle seguenti **mosse**:
+Quando è il tuo turno, puoi scegliere una delle seguenti azioni.
+
 
 #### 1. **L'Ordinazione** 🍜
 
-> Aggiungi una nuova *portata* (combinazione di carte uguali) con **esattamente una carta**. Possono esserci fino a **due portate** (*Primo* e *Secondo*). 
+> Aggiungi una nuova *portata* di **esattamente una carta**. Possono esserci fino a **due portate** (*Primo* e *Secondo*). 
 
 
-**Esempi**:
-
-* Sei il primo a giocare; puoi chiamare *il primo*:   $$\text{"Un Re" (riveli un Re)}$$
+**Esempio 2**: Sei il primo a giocare; puoi chiamare *il primo*:  $$\text{"Un Re" (riveli un Re)}$$
   Hai aggiunto un Re alle portate.
-    
-* Il giocatore prima di te ha chiamato "Due 10". Puoi chiamare *il secondo*, aggiungendolo al *primo*:   $$\text{"Due 10 e un 7 (riveli un 10 o un 7)"}$$
-  Hai aggiunto un 7 alle portate.
 
+**Esempio 3**: Il giocatore prima di te ha chiamato "Due 10". Puoi chiamare *il secondo*, aggiungendolo al *primo*:   $$\text{"Due 10 e un 7"}$$
+riveli il 7 (se non era già presente sul tavolo), e lo aggiungi al piatto.
+  
 #### 2. **Speziare** 🌶 
 
-> Alzare a piacere il **rango** di una delle *portate*. I ranghi vanno dal 2 all'Asso. I Jolly sono valgono come qualsiasi carta, ma, ovviamente, non si possono chiamare. Speziare non modifica il numero di carte della portata.
+> Alzare a piacere il **rango** di una delle *portate*. I ranghi vanno dal 2 all'Asso. I Jolly  valgono come qualsiasi carta, ma non si possono chiamare. Speziare non modifica la quantità della *portata*.
 
 Esempi:
 * Il giocatore prima di te ha chiamato "Due 10". Puoi *speziare* alzando il rango del *primo*: $$\text{"Due Assi" (riveli un Asso)}$$
-* Il giocatore prima di te ha chiamato "Due 3 e due 4".  Puoi *speziare* alzando il rango del *secondo*: $$\text{"Due 3 e due 7" (riveli un 3 o un 7)}$$
+* Il giocatore prima di te ha chiamato "Due 3 e due 4".  Puoi *speziare* alzando il rango del *secondo*: $$\text{"Due 3 e due 7"}$$
+  Riveli un 7 se non ce n'è già uno sul tavolo.
+
 
 #### 3. **Abbondare** 🍚
 
-> Aggiungere **esattamente una carta** ad una delle *portate*. Quando abbondi una portata, **il rango precedente viene completamente sostituito**.
+> Sostituisci una delle due _portate_ esistenti con una combinazione **più abbondante**: aumenta la **quantità di 1**. Puoi **scegliere un nuovo rango**, ma deve essere diverso dall’altra *portata* in gioco).
+  
+Se il nuovo rango **non è già presente tra le carte rivelate sul tavolo**, devi **rivelare una carta di quel rango dalla tua mano** e posizionarla scoperta accanto al piatto.  
+Non puoi rivelare un Jolly.
 
-* Il giocatore prima di te ha chiamato "Un 10". Puoi *abbondare* chiamando un tris: $$\text{"Due Regine" (riveli una Regina)}$$
-* Il giocatore prima di te ha chiamato "Due 9 e due 4".  Puoi *abbondare* il *secondo* chiamando: $$\text{"Due 9 e tre 2" (riveli un 9 o un 2)}$$
+* Il giocatore prima di te ha chiamato "Un 10". Puoi *abbondare* chiamando: $$\text{"Due 7"}$$
+  Riveli un 7 se non ce n'è già uno sul tavolo.
+    
+* Il giocatore prima di te ha chiamato "Due 9 e due 4".  Puoi *abbondare* il *secondo* chiamando: $$\text{"Due 9 e tre 2"}$$
+  Riveli un 2 se non ce n'è già uno sul tavolo.
+    
 * Nota bene: non puoi aggiungere più di una carta ad una combinazione, né puoi *abbondare* due *portate* allo stesso tempo.
 
 #### 4. _**Chiedere il Conto**_ 🧾
 
 > L'esclamazione per dubitare il giocatore precedente: $$\text{Il conto, prego!}$$
-> Lo fai quando non pensi che tra le carte di **tutti i giocatori** ci sia l'ultima combinazione dichiarata. Se fai questa mossa sei *il capotavola*. L'ultimo giocatore ad aver *chiamato un piatto* è *il cameriere*. Si ferma il gioco, e si verificano le mani di **tutti** i giocatori (vedi [[Il Conto, Prego! 🍛#🧾 Vincere la Mano|Vincere la Mano]]).
+> Lo fai quando non pensi che tra le carte di **tutti i giocatori** (in tavolo e in mano) ci sia l'ultima combinazione dichiarata. Se fai questa mossa sei *il capotavola*. L'ultimo giocatore ad aver chiamato un piatto è *il cameriere*. La mano si chiude, e si verificano le mani di **tutti** i giocatori (vedi [[Il Conto, Prego! 🍛#🧾 Vincere la Mano|Vincere la Mano]]).
 
 
 🔹*Nota: Non puoi passare il turno, ma non sei costretto a chiamare carte che hai in mano. A parte il Jolly, puoi chiamare tutto quello che vuoi, purché rispetti le regole.*
@@ -99,33 +115,14 @@ Esempi:
 
 > Prima di cominciare il gioco, puoi scegliere quali delle seguenti regole applicare a fine mano:
 
-- Di base, la partita termina quando si raggiunge un limite prestabilito di mani. Vince il gioco chi ha perso meno volte.
-    
-- **Regola dell'Oste**: Se hai vinto la mano precedente sei *L'Oste*. Nella prossima mano sarai il mazziere. Se hai vinto senza usare i Jolly, comincerai la mano con una **carta in più**.
-    
-- **Regola del Saldo**: Ogni volta che perdi la mano, si aggiunge un *Saldo* alla tua lista. A inizio partita, dovrai scartare una carta per ogni *Saldo* sul tuo conto. Chi resta senza carte, **viene eliminato** dalla partita (In questa variante puoi rivelare il Jolly).
-    
-- **Regola degli Omaggi**: Ogni volta che chiami *il conto* e vinci, si aggiunge un *Omaggio* alla tua lista. A inizio partita, pescherai una carta in più per ogni *omaggio* e poi ne scarti altrettante a faccia in giù. Chi arriva per primo a un certo numero di omaggi, **vince la partita**.
-
----
-
-#### 💁‍♂️ Consigli
-
-- Comincia la mano *ordinando* quando possibile. Se non lo fai, rischi di dare agli altri giocatori un turno gratis. 
-	  Es.: **A** ordina "Un 5", **B** spezia "Un 6"; ora **C** può ordinare "Un 6 e un 5" senza dare informazioni sulla propria mano
-    
-- Per mettere più pressione sugli altri giocatori, chiama carte di rango più altro. Questo rende più difficile *speziare* le *portate*, e costringe gli altri ad *abbondare* più spesso. 
-    
-- Con $n$ carte in gioco, puoi aspettarti che la combinazione più grande di carte uguali (due mazzi, jolly incluso) sia di circa $1+n/6$ carte. Tienilo a mente quando decidi di dubitare.
-    
-- Se puoi, rivela una carta che hai già rivelato in precedenza. In questo modo darai via meno informazioni.
+- **Regola dell'Oste**: Se hai vinto la mano precedente sei *L'Oste*. Nella prossima mano sarai il mazziere, e comincerai la mano con una **carta in più**.
 
 ---
 
 ## ✋ Esempi di Mano
 
 
-### Esempio 1
+### Esempio 4
 
 **Mani**:
 	A - 2 6 7 T Q Q
@@ -138,11 +135,11 @@ Esempi:
 | 1     | A         | Ordina il *primo*   | "Un Q"                 | Q      |
 | 2     | B         | Ordina il *secondo* | "Un Q e un K"          | K      |
 | 3     | C         | Speziare            | "Un A e un K"          | A      |
-| 4     | D         | Abbondare           | "Due A e un K"         | A      |
-| 5     | A         | Abbondare           | "Due A e due Q"        | Q      |
+| 4     | D         | Abbondare           | "Due A e un K"         | -      |
+| 5     | A         | Abbondare           | "Due A e due Q"        | -      |
 | 6     | B         | Abbondare           | "Due A e tre T"        | T      |
 | 7     | C         | Speziare            | "Due A e tre J"        | J      |
-| 8     | D         | Abbondare           | "Due A e tre K"        | K      |
+| 8     | D         | Speziare            | "Due A e tre K"        | -      |
 | 9     | A         | Chiedere *il conto* | **"Il conto, prego!"** | -      |
 
 Tutti i giocatori rivelano la propria mano, e cercano di comporre *"Due A e tre K"*.
@@ -155,7 +152,7 @@ I giocatori sono in grado di comporre la mano chiamata, quindi *il capotavola* (
 
 ---
 
-### Esempio 2
+### Esempio 5
 
 **Mani**:
 	A - 2 3 3 5 9 A
@@ -166,14 +163,12 @@ I giocatori sono in grado di comporre la mano chiamata, quindi *il capotavola* (
 | ----- | --------- | ------------------- | ---------------------- | ------ |
 | 1     | A         | Ordina il *primo*   | "Un 2"                 | 2      |
 | 2     | B         | Ordina il *secondo* | "Un 2 e un Q"          | Q      |
-| 3     | C         | Abbondare           | "Due 2 e un Q"         | 2      |
+| 3     | C         | Abbondare           | "Due 2 e un Q"         | -      |
 | 4     | A         | Speziare            | "Due 2 e un A"         | A      |
-| 5     | B         | Abbondare           | "Due 2 e due Q"        | Q      |
-| 6     | C         | Speziare            | "Due 2 e due A"        | 2      |
+| 5     | B         | Abbondare           | "Due 2 e due Q"        | -      |
+| 6     | C         | Speziare            | "Due 2 e due A"        | -      |
 | 7     | A         | Abbondare           | "Tre 3 e due A"        | 3      |
 | 8     | B         | Chiedere *il conto* | **"Il conto, prego!"** | -      |
-
-(Nota come al turno 6 il giocatore **C** ha rivelato di nuovo un 2, pur avendo *speziato* con un Asso.)
 
 Tutti i giocatori rivelano la propria mano, e cercano di comporre *"Tre 3 e due A"*.
 In tutto ci sono solo: 
@@ -183,24 +178,3 @@ In tutto ci sono solo:
 I giocatori **non** sono in grado di comporre la mano chiamata, quindi *il capotavola* (giocatore B) ha fatto la chiamata giusta ✅. Il *cameriere* (giocatore A) ha perso la mano, e tutti gli altri invece hanno vinto.
 
 ---
-
-## ❓ FAQ
-
-- **Sui Jolly:** _"Se ho un Jolly e un 7, e dichiaro 'Due 7', posso mostrare il 7? Il Jolly conta come il secondo 7 per la verifica finale del conto?"_
-	  **Risposta**: Devi rivelare il 7. Non è richiesto avere nessun'altra delle carte chiamate. 
-    
-- **Sulla rivelazione:** _"Se dichiaro 'Due Re e tre 5', e sto già mostrando un Re dal turno precedente, posso scegliere di non rivelare nulla di nuovo o devo comunque girare una carta dei 5?"_
-	  **Risposta**: Se vuoi rivelare di nuovo la carta che stai già rivelato, puoi semplicemente lasciarla lì dov'è. 
-    
-- **Sui limiti delle portate:** _"Possono esserci solo due portate (Primo e Secondo). Se sono già state chiamate entrambe, il giocatore successivo può solo 'Speziare' o 'Abbondare' quelle esistenti, o può sostituire una portata intera con una nuova?"_
-	  **Risposta**: Una volta che le due portate sono state *ordinate*, non ne puoi più ordinare altre. 
-    
-- **Sulla carta rivelata:** _"La carta che riprendo in mano all'inizio del turno deve essere mostrata agli altri mentre la rimetto nel mazzo, o posso farlo copertamente?"_ (Il manuale dice "nascosta", ma è bene chiarire se gli altri devono vedere _quale_ carta sparisce).
-	  **Risposta**: Gli altri giocatori vedono la tua carta rivelata, quindi sanno cosa hai ripreso in mano.
-    
-- **Sul setup:** _"Le carte scartate durante le varianti (Regola del Saldo/Omaggi) tornano nel mazzo o vengono eliminate per tutta la partita?"_
-	  **Risposta**: Tornano nel mazzo.
-    
-- **Sulla "Varietà":** _"Se il Primo piatto è 'Tre 8', posso chiamare come Secondo piatto 'Un 8'? Oppure il rango 8 è 'bruciato' per entrambe le portate?"_
-	  **Risposta**: Non puoi avere due piatti con lo stesso rango.
-	
