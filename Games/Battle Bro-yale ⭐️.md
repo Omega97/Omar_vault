@@ -1,7 +1,7 @@
 
 ### Materiali
 
-- lista di categorie (vedi [[⭐️ Battle Bro-yale#**Esempi di categorie**|esempi categorie]])
+- lista di categorie (vedi [[Battle Bro-yale ⭐️#**Esempi di categorie**|esempi categorie]])
 
 ---
 ### Regole

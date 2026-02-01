@@ -75,6 +75,7 @@ Esempi:
 * Il giocatore prima di te ha chiamato "Due 3 e due 4".  Puoi *speziare* alzando il rango del *secondo*: $$\text{"Due 3 e due 7"}$$
   Riveli un 7 se non ce n'è già uno sul tavolo.
 
+**Nota bene**: *Speziare* non abbassa mai il rango, e il rango più alto e l'Asso.
 
 #### 3. **Abbondare** 🍚
 
@@ -111,11 +112,13 @@ Non puoi rivelare un Jolly.
 
 ---
 
-## 🏆 Premi e Penitenze
+## 🏆 Premi e Varianti
 
 > Prima di cominciare il gioco, puoi scegliere quali delle seguenti regole applicare a fine mano:
 
 - **Regola dell'Oste**: Se hai vinto la mano precedente sei *L'Oste*. Nella prossima mano sarai il mazziere, e comincerai la mano con una **carta in più**.
+    
+- Puoi sperimentare con tre portate invece che due. Per avere il massimo chaos, tutti cominciano la partita con una carta extra!
 
 ---
 
