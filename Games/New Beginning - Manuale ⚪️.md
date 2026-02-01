@@ -16,13 +16,15 @@ Con soli due colori – ⚪ bianchi e ⚫ neri – ogni estrazione decide il
     
 2. Un sacchetto per **ESTRARRE** i **TOKEN**.
     
-3. [Scheda personaggio](https://github.com/Omega97/Shimanami/blob/main/Meccaniche/_template_character_sheet_NB.pdf), con il nome del personaggio, descrizione, possedimenti, **LEZIONI**, **SVENTURE**. e 8 **TRATTI** iniziali: 
+3. **Scheda personaggio**, con il nome del personaggio, descrizione, possedimenti, **LEZIONI**, **SVENTURE**. e 8 **TRATTI** iniziali: 
      
 	- 1 **ARCHETIPO** (definisce chi è il tuo eroe, e il suo ruolo nel mondo)
 	    
 	- 3 **QUALITÀ** (descrivono le caratteristiche personali, emotive o morali del personaggio)
 	    
 	- 4 **ABILITÀ** (rappresentano competenze pratiche, tecniche o professionali che il personaggio ha sviluppato)
+
+*Vedi [[New Beginning - Manuale ⚪️#Esempi di Tratti]].*
 
 ---
 
@@ -179,6 +181,8 @@ Quando affronti una **PROVA**, il **NARRATORE** può stabilire un livello di **P
 
 Un’**USCITA DI SCENA** è un momento drammatico in cui il tuo eroe viene temporaneamente messo fuori gioco durante una **PROVA**, a causa di un pericolo attivato (estraendo un numero di ⚫ pari o superiore al livello stabilito dal **NARRATORE**). Potresti perdere conoscenza, essere catturato o affrontare un ostacolo insormontabile. Non è una sconfitta definitiva: rientri nella scena successiva, spesso con una Sventura o un nuovo spunto narrativo. Collabora con il **NARRATORE** per rendere questo evento un’occasione per arricchire la tua storia, trasformando il rischio in un nuovo inizio.
 
+*Vedi [[Not the End - Rules ⚪️#Esempio Pericolo – *La Scalata sotto la Pioggia*|Esempio di Pericolo]].*
+
 > **📌 NOTA BENE: Calibrare il Rischio** Il NARRATORE dovrebbe usare il PERICOLO con parsimonia, riservandolo a momenti cruciali o situazioni ad alta tensione. Il livello di PERICOLO dovrebbe riflettere la difficoltà della PROVA. Evita esiti estremi a meno che non siano concordati con i giocatori per il tono della campagna. Il Pericolo non è una punizione, ma un invito a rendere la storia più intensa.
 
 ---
@@ -225,6 +229,8 @@ Quando affronti una **Prova Cruciale**, il tuo personaggio ha l’opportunità d
 2. Annota la **Lezione** sulla tua scheda, con un nome evocativo e un effetto specifico. Puoi usarla una volta per sessione in una **PROVA**, legata al suo contesto.
 3. Se hai fallito la **PROVA**, la **Lezione** dovrebbe riflettere il peso di quel fallimento, offrendo un vantaggio ma con un’ombra di sacrificio o complessità.
 
+*Vedi [[New Beginning - Manuale ⚪️#Esempi di Lezione|Esempi di Lezione]].*
+
 > **📌 NOTA**: Collabora con il narratore per creare lezioni che arricchiscano la narrazione, facendo attenzione di **evitare effetti che garantiscono un successo**. Una Lezione nata da un fallimento potrebbe avere un costo (es. un ⚫ extra), mentre una da un successo dovrebbe esaltare il tuo eroe. Usa le Lezioni per dare profondità al tuo personaggio, non solo per vincere.
 
 ---
@@ -240,6 +246,60 @@ Hai deciso di spendere uno o più ⚫ estratti durante una **PROVA** per farti i
 3) **Effetto**: La **SVENTURA** aggiunge ⚫ extra pari al suo **livello** alle **PROVE** inerenti.
     
 4) **Risoluzione**: Elimina la **SVENTURA** con un’azione narrativa o una **PROVA** specifica. Alcune sventure svaniscono col tempo, a discrezione del **NARRATORE**. Stabilisci assieme al **NARRATORE** delle linee guida generali per decidere quando risolvere la **SVENTURA**.
+
+*Vedi [[New Beginning - Manuale ⚪️#Esempi di Sventura|Esempi di Sventura]].*
+
+---
+
+## Livello e Influenza 💪
+
+> Il **livello** di un personaggio è definito come **la somma dei livelli di tutti i TRATTI** + **il numero di LEZIONI**.
+
+Il livello del tuo personaggio determina l'**INFLUENZA** che hai sul mondo. A ciascun tratto e lezione puoi associare un *lavoro*, un *hobby*, o un *contatto significativo* che hai nel mondo.
+
+*Vedi [[New Beginning - Manuale ⚪️#Esempio di Slot Influenza|Esempio di Slot Influenza]].*
+
+---
+
+## Combattimento: Il Ritmo della Battaglia ⚔️
+
+> _In New Beginning, il combattimento non è una sequenza di calcoli, ma uno scambio serrato di colpi, parate e decisioni disperate. Il successo non dipende solo dalla forza, ma da quanto sei disposto a rischiare per abbattere il tuo avversario._
+
+### Punti Vita (PV) e Resistenza ❤️
+
+La vitalità di un personaggio è legata direttamente alla sua crescita e alla sua importanza nel mondo.
+
+- **Eroi**: I tuoi **Punti Vita** ❤️ sono pari al tuo **LIVELLO (INFLUENZA)**.
+    
+- **Avversari**: Il Narratore assegna i ❤️ in base alla minaccia.
+
+### Iniziativa 🏃‍♂️
+
+Il combattimento segue il flusso della narrazione:
+
+1. **Chi agisce per primo?** Chi descrive l'azione più repentina o chi ha un Tratto di velocità/riflessi (es. _Agile_ o _Sesto Senso_).
+    
+2. **Alternanza**: Una volta che un Eroe ha agito, il turno passa a un nemico, poi a un altro Eroe, e così via, finché tutti non hanno partecipato allo scambio.
+
+
+###  La Prova di Combattimento (Attacco e Danno) 🥊
+
+Per mantenere il gioco fluido, **un'unica estrazione** determina sia se colpisci, sia quanto male fai.
+
+1. **Dichiara l'Attacco**: Descrivi come intendi colpire l'avversario.
+    
+2. **Estrazione:** Entrambe le controparti costruiscono il sacchetto e fanno un'estrazione.
+    
+3. L'esito delle prove è dato dal livello di successo di ciascun giocatore. Spendi ⚪️ e ⚫️ normalmente, ma c'è un *twist*:
+
+> Per ciascun ⚪️ che hai pescato, scegli se: 
+> - **togliere un** ❤️ all'avversario (**DANNO**), oppure 
+> - **Recuperare un ❤️ che hai appena perso** (**PARARE IL COLPO**).
+
+
+### Cadere in Battaglia 💀
+
+> Durante la prova, i tuoi ❤️ possono scendere sotto 0, ma se a fine prova sono ancora **0** o meno, il personaggio è esausto o ferito gravemente, e non può più combattere. Subisce automaticamente un'**USCITA DI SCENA**.
 
 ---
 
@@ -497,6 +557,19 @@ Renditi amico il barista per eliminare questa **SVENTURA**.
 
 **SVENTURA**: **Orgoglio Ferito** ⚫: Ricevi 1⚫ extra di difficoltà ogni volta che affronti una **PROVA** relativa a una conoscenza in comune.
 Sconfiggi la tua nemesi in duello per eliminare questa **SVENTURA**.
+
+---
+
+### Esempio di Slot Influenza
+
+| TRATTO                                 | Occupazioni<br>(Slot Influenza)             |
+| -------------------------------------- | ------------------------------------------- |
+| **Archetipo**:<br>Aspirante arciere 🏹 | Hobby: <br>*Allenamento<br>tiro con l'arco* |
+| Intraprendente                         | Hobby:<br>*Assembla computer*               |
+| Estroverso                             | Lavoro:<br>*tecnico informatico*            |
+| Eccentrico                             | -                                           |
+
+> 📌 **NOTA**: *Le occupazioni non devono per forza aver a che fare con il tratto.*
 
 ---
 
