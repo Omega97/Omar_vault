@@ -1,87 +1,90 @@
 
-# **Royal Gambit**  
-*A Push-Your-Luck Card Game of Courtly Intrigue*  
+# **Royal Gambit - "Guazzabuglio**"
+
+_A Push-Your-Luck Card Game of Courtly Intrigue_
 
 ---
 
-## 🎯 **Goal**  
-The players flip cards face-up on the table - one at the time - to get points. If you flip two of the same rank, you go bust.
-At the end of a hand, if a player got to 30+ points, there is one more hand, where everybody plays, except the favorite(s). After that, if there is a tie for first, the tied players keep playing until one wins.
+## 🎯 **Goal**
+
+Flip cards to accumulate points. If you *stay*, count your points, and add them to your total. You go "bust" if you flip any two **numbered** cards of the **same rank** (not the figures). Play until a player reaches **40 or more points** at the end of a hand. After the target is reached, one final round is played where everyone except the current *leader(s)* gets one last turn — the "Catch-up" — to try to overtake them.
 
 ---
 
-## 🃏 **Components**  
-- 1 standard 52-card French deck (no Jokers)  
+## 🃏 **Components**
+
+- 1 standard 52-card French deck (no Jokers)
+    
+- Pen and paper (or chips) to count the points
 
 ---
 
-## 🧾 **Card Values & Roles**  
+## 🧾 **Card Values & Effects**
 
-| Rank            | Effect                                                                                                                                                                                                                       |
-| --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Ace**         | **+1 Points**<br>*A humble petition to the throne*                                                                                                                                                                           |
-| **2, 3, 4, 5**  | **Face value points**<br>*Favor from minor nobles*                                                                                                                                                                           |
-| **6, 8, 9, 10** | *Empty courtesies—polite but worthless*<br>(Optionally, the **10 blocks the Jacks**)                                                                                                                                         |
-| 7               | **"Hot Potato"**: Immediately when flipped, choose another player still in the hand that does not have a face-up 7; **give it to them** (otherwise, you keep it). (You still bust if you already have a 7 when you draw one) |
-| **Jack (J)**    | **Court Spy**: Immediately when flipped, choose a player still in the hand (yes, even yourself); they immediately **flip TWO cards**.                                                                                        |
-| **Queen (Q)**   | **Royal Pardon**: If you ever flip a second card of the same rank (bust), the Queen **automatically cancels the bust**. Flip face-down (or discard) the Queen and the duplicate card.                                        |
-| **King (K)**    | **Crown’s Blessing**: If you stay without busting, your total score for the hand is **doubled**.                                                                                                                             |
+| **Rank**  | **Points**                                                                                                                                                                        |
+| --------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Ace**   | +1 point 🔵                                                                                                                                                                       |
+| **2**     | +2 points 🔵                                                                                                                                                                      |
+| **3**     | +3 points 🔵                                                                                                                                                                      |
+| **4**     | +4 points 🔵                                                                                                                                                                      |
+| **5**     | +5 points 🔵                                                                                                                                                                      |
+| 6         | *brick*                                                                                                                                                                           |
+| **7**     | **Lucky Seven 🍀**: Target a player\*; they have to **give you a card** of **their** choice.                                                                                      |
+| **8**     | **Hot Potato**🥔: Target a player\* who does NOT have a face-up 8; **give them this card**                                                                                        |
+| 9         | *brick*                                                                                                                                                                           |
+| T         | *brick*                                                                                                                                                                           |
+| **Jack**  | **The Sniper** 🔫: Target a player\* to **flip TWO cards SIMULTANEOUSLY**<br>(You may have to target yourself. *Any action-cards you flip may be resolved in an order of choice*) |
+| **Queen** | **Extra Life** ♥️: If you go bust, you can **cover a Queen** **and the last card you flipped**, and keep playing                                                                  |
+| **King**  | **Double Points** 🔵🔵👑: Every King is worth **as many points as you get from your numbered cards**                                                                              |
 
-> 💡 **Note**: All cards count toward the **bust condition**, including face cards. Flip two Jacks? You’re exposed. Two Kings? The Crown turns on you. Bust = 0 points (unless saved by a Queen).
-> 💡 **Note**: The effect of the Queen is resolved before the effect of the other action cards. If you flip an action card while resolving an other action card, you start immediately resolving the new card.
+\**You may target only players that are still in the hand.*
+_Note: Effects activate only when **flipping** a card._
 
----
 
-## 🔄 **Gameplay**  
+### 👑 **Sets**
 
-### **Setup**  
-- Shuffle the deck.  
-- Agree on the target score (**30 points** is recommended).  
+For each set you manage to complete, you will be rewarded with extra points (if you don't bust).
 
-### **On Your Turn**  
-During your turn you can HIT or STAY.
-
-1. **HIT**: Flip the top card of the deck and place it face-up in front of you.  
-   - Immediately apply its effect (e.g., Jack forces another player to flip 2; give the 7 to an other player).  
-   - **Check for bust**: If any two cards share the same rank, you bust; flip your cards face-down, score = 0 (unless a Queen saves you).  
-   - If saved by a Queen, flip face-down only the Queen and the duplicate, then continue. 
-   - (Optionally, when someone has 0 points on the table, since they have nothing to lose, the dealer may automatically *hit* without them asking)
-
-1. **STAY**: End your turn.  
-   - Calculate your score: sum Ace–5 values → apply King bonus (×2 max).  
-   - Add to your total score.  
-   - You may rearrange all you cards on a single pile.
-
-3. **End of Hand**:  
-   - Return all flipped cards to the deck.  
-   - **Shuffle the entire deck** before the next player’s turn.  
-
-### **Turn Order**  
-Players take turns **sequentially**, clockwise.
+| Set               | Cards         | Points |
+| ----------------- | ------------- | ------ |
+| **Royal Family**  | J, Q, K       | +5     |
+| **High Straight** | 6, 7, 8, 9, T | +5     |
+| **Low Straight**  | A, 2, 3, 4, 5 | +5     |
 
 ---
 
-## 🏁 **Ending the Game**  
-- At the end of a hand, if a player got to 30+ points, there is one more hand, where everybody plays, except the favorite(s). 
-- After that, the player with most points wins. 
-- If there is a tie for first, the tied players keep playing until one wins.
+## 🔄 **Gameplay**
+
+Play hands until a player reaches **40 points**.
+
+On your turn, you may **HIT** or **STAY**.
+
+1. **HIT**: Flip the top card of the deck.
+    
+    - **Apply Effects**: Resolve the card immediately (e.g., passing an 8, or a Jack forcing 2 more flips). If a Jack forces a flip that reveals _another_ Jack, the effect stacks.
+        
+    - **Check for Bust**: If you have two **numbered** cards of the same rank (A–10), you bust and score 0 for the turn.
+    
+2. **STAY**: End your turn and calculate your score.
+    
+    - **Base Score**: Sum of Ace through 5.
+        
+    - **Multiplier**: Apply King bonus to the base score ($Base \times (1 + \text{Number of Kings})$).
+        
+    - **Bonus**: Add +5 for each set you collected.
+        
+    - **Max Score**: The maximum possible score in a single hand is $(15 \times 5) + (5 \times 3) = 90$
+
+When any player reaches 40 points, everyone except for the current *leader(s)* plays **one last hand** — the "Catch-up" hand — to try to overtake him. If there is still more than one *leader*, they play hands until a draw is reached.
 
 ---
 
-## 💬 **Thematic Flavor**
-> *"In the gilded halls of the palace, every whisper could be your fortune—or your ruin. Will you press your luck for the King’s favor, or retreat before scandal strikes? Remember: two of the same secret, and the guards will drag you to the dungeons."*
+## 🏁 **Ending the Game**
+
+- **The Final Round**: Once a player reaches **40+ points**, they become the "Favorite." One final hand is played where every other player attempts to beat that score. The Favorite does not play in this final round.
+    
+- **Winning**: After the final round, the player with the highest total score wins.
+    
+- **The Duel**: If there is a tie for first place, the tied players play "Sudden Death" hands until one person ends a turn with a higher score.
 
 ---
-
-## ℹ️ **Design Notes**  
-- **Bust probability rises quickly**: With 13 ranks and 4 copies each, flipping 5+ cards is risky.  
-- **Face cards add drama, not dominance**: Their powers are situational and balanced.  
-- **Fast rounds**: Reshuffling every hand keeps the game unpredictable and snappy (~10–15 seconds per turn).
-
----
-
-**Play time**: 15–20 minutes  
-**Players**: 2–5  
-**Ages**: 10+  
-
-*May the court smile upon you.*
