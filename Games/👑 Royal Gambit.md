@@ -1,25 +1,28 @@
 
 # **Royal Gambit - "Guazzabuglio**"
 
-_A Push-Your-Luck Card Game of Courtly Intrigue_
+_A Push-Your-Luck Card Game of for 2+ players_
 
 ---
 
 ## 🎯 **Goal**
 
-Flip cards to accumulate points. If you *stay*, count your points, and add them to your total. You go "bust" if you flip any two **numbered** cards of the **same rank** (not the figures). Play until a player reaches **40 or more points** at the end of a hand. After the target is reached, one final round is played where everyone except the current *leader(s)* gets one last turn — the "Catch-up" — to try to overtake them.
+*Flip* cards to accumulate points. If you *stay*, count your points, and add them to your total. You go *bust* if you flip any two **numbered** cards of the **same rank** (not the figures). 
+**If you are ahead**, you may decide to *stay* instead. Now it's up to other players to catch up, and collect more points than you. At the end of the hand, the player with most points **wins**.
 
 ---
 
 ## 🃏 **Components**
 
-- 1 standard 52-card French deck (no Jokers)
+- 1 standard 52-card *French* deck (no Jokers)
     
-- Pen and paper (or chips) to count the points
+- Pen and paper (or chips) to count the points at the end of the hand
 
 ---
 
 ## 🧾 **Card Values & Effects**
+
+Some cards that are face-up on your side of the table give you points. Other cards give you bonus effects when you flip them.
 
 | **Rank**  | **Points**                                                                                                                                                                        |
 | --------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -29,7 +32,7 @@ Flip cards to accumulate points. If you *stay*, count your points, and add them 
 | **4**     | +4 points 🔵                                                                                                                                                                      |
 | **5**     | +5 points 🔵                                                                                                                                                                      |
 | 6         | *brick*                                                                                                                                                                           |
-| **7**     | **Lucky Seven 🍀**: Target a player\*; they have to **give you a card** of **their** choice.                                                                                      |
+| **7**     | **Lucky Seven 🍀**: Target a player\*; they have to **give you a card** of **their** choice (remember, you can't have double numbered cards).                                     |
 | **8**     | **Hot Potato**🥔: Target a player\* who does NOT have a face-up 8; **give them this card**                                                                                        |
 | 9         | *brick*                                                                                                                                                                           |
 | T         | *brick*                                                                                                                                                                           |
@@ -55,8 +58,6 @@ For each set you manage to complete, you will be rewarded with extra points (if 
 
 ## 🔄 **Gameplay**
 
-Play hands until a player reaches **40 points**.
-
 On your turn, you may **HIT** or **STAY**.
 
 1. **HIT**: Flip the top card of the deck.
@@ -75,16 +76,14 @@ On your turn, you may **HIT** or **STAY**.
         
     - **Max Score**: The maximum possible score in a single hand is $(15 \times 5) + (5 \times 3) = 90$
 
-When any player reaches 40 points, everyone except for the current *leader(s)* plays **one last hand** — the "Catch-up" hand — to try to overtake him. If there is still more than one *leader*, they play hands until a draw is reached.
+The player with **most points** **wins the hand**.
 
 ---
 
 ## 🏁 **Ending the Game**
 
-- **The Final Round**: Once a player reaches **40+ points**, they become the "Favorite." One final hand is played where every other player attempts to beat that score. The Favorite does not play in this final round.
+- **Winning the HAND**: After all players *stayed* or have *busted*, the player with most points **wins the hand**.
     
-- **Winning**: After the final round, the player with the highest total score wins.
-    
-- **The Duel**: If there is a tie for first place, the tied players play "Sudden Death" hands until one person ends a turn with a higher score.
+- **Winning the GAME**: You may decide to count **how many hands** each player won, or **how many points** the winner collected. After a **set number of hands**, the player with most points **wins the game**
 
 ---
