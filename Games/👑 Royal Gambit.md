@@ -24,25 +24,25 @@ _A Push-Your-Luck Card Game of for 2+ players_
 
 Some cards that are face-up on your side of the table give you points. Other cards give you bonus effects when you flip them.
 
-| **Rank**  | **Points**                                                                                                                                                                        |
-| --------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Ace**   | +1 point 🔵                                                                                                                                                                       |
-| **2**     | +2 points 🔵                                                                                                                                                                      |
-| **3**     | +3 points 🔵                                                                                                                                                                      |
-| **4**     | +4 points 🔵                                                                                                                                                                      |
-| **5**     | +5 points 🔵                                                                                                                                                                      |
-| 6         | *brick*                                                                                                                                                                           |
-| **7**     | **Lucky Seven 🍀**: Target a player\*; they have to **give you a card** of **their** choice (remember, you can't have double numbered cards).                                     |
-| **8**     | **Hot Potato**🥔: Target a player\* who does NOT have a face-up 8; **give them this card**                                                                                        |
-| 9         | *brick*                                                                                                                                                                           |
-| T         | *brick*                                                                                                                                                                           |
-| **Jack**  | **The Sniper** 🔫: Target a player\* to **flip TWO cards SIMULTANEOUSLY**<br>(You may have to target yourself. *Any action-cards you flip may be resolved in an order of choice*) |
-| **Queen** | **Extra Life** ♥️: If you go bust, you can **cover a Queen** **and the last card you flipped**, and keep playing                                                                  |
-| **King**  | **Double Points** 🔵🔵👑: Every King is worth **as many points as you get from your numbered cards**                                                                              |
+| **Rank**  | **Points**                                                                                                                                    |
+| --------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Ace**   | +1 point 🔵                                                                                                                                   |
+| **2**     | +2 points 🔵                                                                                                                                  |
+| **3**     | +3 points 🔵                                                                                                                                  |
+| **4**     | +4 points 🔵                                                                                                                                  |
+| **5**     | +5 points 🔵                                                                                                                                  |
+| 6         | *brick*                                                                                                                                       |
+| **7**     | **Lucky Seven 🍀**: Target a player\*; they have to **give you a card** of **their** choice (remember, you can't have double numbered cards). |
+| **8**     | **Hot Potato**🥔: Target a player\* who does NOT have a face-up 8; **give them this card**.                                                   |
+| 9         | *brick*                                                                                                                                       |
+| T         | *brick*                                                                                                                                       |
+| **Jack**  | **The Sniper** 🔫: Target a player\* to **flip TWO cards SIMULTANEOUSLY**\*\*                                                                 |
+| **Queen** | **Extra Life** ♥️: If you go bust, you can **cover a Queen** **and the last card you flipped**, and keep playing                              |
+| **King**  | **Double Points** 🔵🔵👑: Every King is worth **as many points as you get from your numbered cards.**                                         |
 
 \**You may target only players that are still in the hand.*
 _Note: Effects activate only when **flipping** a card._
-
+\*\*_You may have to target yourself. If you flip a Jack, first check if you are busted. If you are not, action-cards you flip may be resolved in any order of choice_
 
 ### 👑 **Sets**
 
@@ -53,6 +53,8 @@ For each set you manage to complete, you will be rewarded with extra points (if 
 | **Royal Family**  | J, Q, K       | +5     |
 | **High Straight** | 6, 7, 8, 9, T | +5     |
 | **Low Straight**  | A, 2, 3, 4, 5 | +5     |
+
+\**The King doesn't double the points from the sets.*
 
 ---
 
