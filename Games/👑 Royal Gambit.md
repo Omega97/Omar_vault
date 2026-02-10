@@ -22,7 +22,7 @@ _A Push-Your-Luck Card Game of for 2+ players_
 
 Some cards that are face-up on your side of the table give you points. Other cards give you bonus effects when you flip them.
 
-| **Rank**  | **Points**                                                                                                                        |
+| **Rank**  | **Effect**                                                                                                                        |
 | --------- | --------------------------------------------------------------------------------------------------------------------------------- |
 | **Ace**   | +1 point 🔵                                                                                                                       |
 | **2**     | +2 points 🔵                                                                                                                      |
@@ -92,6 +92,16 @@ You **Bust** the moment you have **two numbered cards of the same rank** (Ace th
     
 - **Cappotto**: if everyone else *busted*, you win the hand, even with 0 points. 
     
-- **Winning the GAME**: You may decide to count **how many hands** each player won, or **how many points** the winner collected. After a **set number of hands**, the player with most points **wins the game**
+- **Winning the GAME**: You may decide on a **set number of wins**. For example, the first that wins **3** hands, **wins the game**.
 
 ---
+
+## Alternative Rules
+
+- If there are 5+ player, you may want to use two decks, rather than just one.
+    
+- If you want to play with *Jokers*, here is what they do:
+    
+| **Rank** | **Effect**                               |
+| -------- | ---------------------------------------- |
+| Joker    | 🤡 When you flip it, cover it face-down. |
