@@ -7,36 +7,65 @@ _A Push-Your-Luck Card Game of for 2+ players_
 
 ## 🎯 **Goal**
 
-*Flip* cards to accumulate points. If you *stay*, count your points, and add them to your total. You go *bust* if you flip any two **numbered** cards of the **same rank** (not the figures). 
+*Flip* cards one at the time to accumulate points. If you *stay*, count your points, and add them to your total. You go *bust* if you flip any two **numbered** cards of the **same rank** (not the figures). 
 **If you are ahead**, you may decide to *stay* instead. Now it's up to other players to catch up, and collect more points than you. At the end of the hand, the player with most points **wins**.
 
 ---
 
 ## 🃏 **Components**
 
-- 1 standard 52-card *French* deck (no Jokers)
+- 2 standard *French* deck (with of without Jokers)
 
 ---
 
 ## 🧾 **Card Values & Effects**
 
-Some cards that are face-up on your side of the table give you points. Other cards give you bonus effects when you flip them.
+Some cards give you points while they are face-up on your side of the table. Other cards give you bonus effects **when you *flip* them**. 
+There are three sets of cards: the *pointed cards*, the *bricks*, and the *royal family*.
 
-| **Rank**  | **Effect**                                                                                                                        |
-| --------- | --------------------------------------------------------------------------------------------------------------------------------- |
-| **Ace**   | +1 point 🔵                                                                                                                       |
-| **2**     | +2 points 🔵                                                                                                                      |
-| **3**     | +3 points 🔵                                                                                                                      |
-| **4**     | +4 points 🔵                                                                                                                      |
-| **5**     | +5 points 🔵                                                                                                                      |
-| 6         | *brick*                                                                                                                           |
-| **7**     | **Lucky Seven 🍀**: Target a player\*; they have to **give you a card** of **their** choice (but you can't make them go *bust*!). |
-| **8**     | **Hot Potato**🥔: Target a player\* who does NOT have a face-up 8; **give them this card**.                                       |
-| 9         | *brick*                                                                                                                           |
-| T         | *brick*                                                                                                                           |
-| **Jack**  | **The Sniper** 🔫: Target a player\* to **flip TWO cards SIMULTANEOUSLY**\*\*                                                     |
-| **Queen** | **Extra Life** ♥️: If you go bust, you can **cover a Queen** **and the last card you flipped**, and keep playing                  |
-| **King**  | **Double Points** 🔵🔵👑: Every King is worth **as many points as you get from your numbered cards.**                             |
+#### Pointed Cards 🔵
+
+These cards are worth face-value.
+
+| **Rank** | **Effect**   |
+| -------- | ------------ |
+| **Ace**  | +1 point 🔵  |
+| **2**    | +2 points 🔵 |
+| **3**    | +3 points 🔵 |
+| **4**    | +4 points 🔵 |
+| **5**    | +5 points 🔵 |
+
+#### The Bricks 🧱
+
+These cards are not worth any points, but some of them have effects.
+
+| Rank  | Effect                                                                                                                            |
+| ----- | --------------------------------------------------------------------------------------------------------------------------------- |
+| 6     | *brick*                                                                                                                           |
+| **7** | **Lucky Seven 🍀**: Target a player\*; they have to **give you a card** of **their** choice (but you can't make them go *bust*!). |
+| **8** | **Hot Potato**🥔: Target a player\* who does NOT have a face-up 8; **give them this card**.                                       |
+| 9     | *brick*                                                                                                                           |
+| T     | *brick*                                                                                                                           |
+
+#### The Royal Family 👑
+
+You don't go *bust* with them. They are the most powerful cards in the game.
+
+| Rank      | Effect                                                                                                           |
+| --------- | ---------------------------------------------------------------------------------------------------------------- |
+| **Jack**  | **The Sniper** 🔫: Target a player\* to **flip TWO cards SIMULTANEOUSLY**\*\*                                    |
+| **Queen** | **Extra Life** ♥️: If you go bust, you can **cover a Queen** **and the last card you flipped**, and keep playing |
+| **King**  | **Double Points** 🔵🔵👑: Every King is worth **as many points as you get from your _pointed cards_.**           |
+
+
+#### The Joker
+
+You don't go *bust* with Jokers. They help you complete *sets* to get extra points (check out the next section). 
+
+| Rank         | Effect                                 |
+| ------------ | -------------------------------------- |
+| **Joker** 🤡 | Use it to complete one of your *sets*. |
+
 
 \**You may target only players that are still in the hand.*
 _Note: Effects activate only when **flipping** a card._
@@ -44,7 +73,7 @@ _Note: Effects activate only when **flipping** a card._
 
 ---
 
-### 👑 **Sets**
+### **Sets** 🍱
 
 For each set you manage to complete, you will be rewarded with extra points (if you don't bust).
 
@@ -74,7 +103,7 @@ The player with **most points** **wins the hand**.
 
 ---
 
-### **💥 Going Bust**
+### **Going Bust 💥**
 
 You **Bust** the moment you have **two numbered cards of the same rank** (Ace through 10) face-up on your side of the table.
 
@@ -90,18 +119,6 @@ You **Bust** the moment you have **two numbered cards of the same rank** (Ace th
 
 - **Winning the HAND**: After all players *stayed* or have *busted*, the player with most points **wins the hand**.
     
-- **Cappotto**: if everyone else *busted*, you win the hand, even with 0 points. 
+- **_Cappotto_**: if everyone else *busted*, you win the hand, even with 0 points. 
     
-- **Winning the GAME**: You may decide on a **set number of wins**. For example, the first that wins **3** hands, **wins the game**.
-
----
-
-## Alternative Rules
-
-- If there are 5+ player, you may want to use two decks, rather than just one.
-    
-- If you want to play with *Jokers*, here is what they do:
-    
-| **Rank** | **Effect**                               |
-| -------- | ---------------------------------------- |
-| Joker    | 🤡 When you flip it, cover it face-down. |
+- **Winning the GAME**: You may decide on a **set number of wins**. For example, the first player to win **3** hands, **wins the game**.
