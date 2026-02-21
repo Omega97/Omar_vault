@@ -39,24 +39,23 @@ These cards are worth face-value.
 
 These cards are not worth any points, but some of them have effects.
 
-| Rank  | Effect                                                                                                                            |
-| ----- | --------------------------------------------------------------------------------------------------------------------------------- |
-| 6     | *brick*                                                                                                                           |
-| **7** | **Lucky Seven 🍀**: Target a player\*; they have to **give you a card** of **their** choice (but you can't make them go *bust*!). |
-| **8** | **Hot Potato**🥔: Target a player\* who does NOT have a face-up 8; **give them this card**.                                       |
-| 9     | *brick*                                                                                                                           |
-| T     | *brick*                                                                                                                           |
+| Rank  | Effect                                                                                                                                  |
+| ----- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| 6     | *brick*                                                                                                                                 |
+| **7** | **Lucky Seven 🍀**: Target a player\*; they have to **give you a card** of **their** choice (but you can't make them go *bust*!).       |
+| **8** | **Hot Potato**🥔: Target a player\* who does NOT have a face-up 8; **give them this card**. The game proceeds from the targeted player. |
+| 9     | *brick*                                                                                                                                 |
+| T     | *brick*                                                                                                                                 |
 
 #### The Royal Family 👑
 
 You don't go *bust* with them. They are the most powerful cards in the game.
 
-| Rank      | Effect                                                                                                           |
-| --------- | ---------------------------------------------------------------------------------------------------------------- |
-| **Jack**  | **The Sniper** 🔫: Target a player\* to **flip TWO cards SIMULTANEOUSLY**\*\*                                    |
-| **Queen** | **Extra Life** ♥️: If you go bust, you can **cover a Queen** **and the last card you flipped**, and keep playing |
-| **King**  | **Double Points** 🔵🔵👑: Every King is worth **as many points as you get from your _pointed cards_.**           |
-
+| Rank      | Effect                                                                                                                          |
+| --------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| **Jack**  | **The Sniper** 🔫: Target a player\* to **flip TWO cards\*\*. The game then proceeds from the player after the targeted player. |
+| **Queen** | **Extra Life** ♥️: If you go bust, you can **cover a Queen** **and the last card you flipped**, and keep playing                |
+| **King**  | **Double Points** 🔵🔵👑: Every King is worth **as many points as you get from your _pointed cards_.**                          |
 
 #### The Joker
 
@@ -75,13 +74,13 @@ _Note: Effects activate only when **flipping** a card._
 
 ### **Sets** 🍱
 
-For each set you manage to complete, you will be rewarded with extra points (if you don't bust).
+For each *set* you manage to complete, you will be rewarded with **extra points**, equal to the number of cards in the *set* (if you don't bust).
 
 | Set               | Cards         | Points |
 | ----------------- | ------------- | ------ |
-| **Royal Family**  | J, Q, K       | +5     |
-| **High Straight** | 6, 7, 8, 9, T | +5     |
 | **Low Straight**  | A, 2, 3, 4, 5 | +5     |
+| **High Straight** | 6, 7, 8, 9, T | +5     |
+| **Royal Family**  | J, Q, K       | +3     |
 
 \**The King doesn't double the points from the sets.*
 
@@ -91,7 +90,7 @@ For each set you manage to complete, you will be rewarded with extra points (if 
 
 On your turn, you may **HIT** or **STAY**.
 
-1. **HIT**: Flip the top card of the deck.
+1. **HIT**: Flip the top card from the top the deck.
     
     - **Apply Effects**: Resolve the card immediately (e.g., passing an 8, or a Jack forcing 2 more flips). If a Jack forces a flip that reveals _another_ Jack, the effect stacks.
         
@@ -122,3 +121,22 @@ You **Bust** the moment you have **two numbered cards of the same rank** (Ace th
 - **_Cappotto_**: if everyone else *busted*, you win the hand, even with 0 points. 
     
 - **Winning the GAME**: You may decide on a **set number of wins**. For example, the first player to win **3** hands, **wins the game**.
+
+---
+
+### Resolving Simultaneous Effects
+
+Sometimes, while resolving an action card, you will flip other action cards. In general, you should follow this procedure:
+
+> When an action card makes you flip cards, place them face-down at first (*due to be flipped flip*). Then, one by one, the players **actually** flip the cards, and the order is decided by the initial turn player.
+
+---
+
+## Variants
+
+- If you play with only one deck, you may want to shuffle the cards of the players back into the deck immediately as they go bust.
+    
+- You may add *house rules* for the other bricks, for example:
+	- 6: steal a card of your choice from the player with most points (no doubles)
+	- 9: make everyone gift you a card (no doubles, you decide the order)
+	- T: make everyone flip a card (in order, starting from the player after you)
