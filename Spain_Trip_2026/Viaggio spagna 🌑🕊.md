@@ -37,11 +37,13 @@
 
 #volo ✈️ 22:40 Barcellona ➡️ 23:35 Palma di Maiorca
 
+#check-in #hotel 
+
 ---
 
 ## 12 agosto - Palma di Maiorca 🌴 - Eclissi ✨🌑✨
 
-#check-in #hotel
+
 
 ### Eclissi 
 
@@ -84,10 +86,12 @@
 
 # Ledger Spese
 
-| Acquirente | Causale                  | Qt. totale\* | Debitore         |
-| ---------- | ------------------------ | ------------ | ---------------- |
-| Nic        | volo Barcellona -> Palma | 144€         | Nic, Omar, Peter |
-| Peter      | volo andata e ritorno    | 305€         | Omar             |
+| Acquirente | Causale                                  | Qt. totale\* | Debitore         |
+| ---------- | ---------------------------------------- | ------------ | ---------------- |
+| Nic        | volo Barcellona -> Palma                 | 144€         | Nic, Omar, Peter |
+| Peter      | volo andata e ritorno                    | 305€         | Omar             |
+|            | hotel Barcellona 7/8 sera - 11/8 mattina |              |                  |
+| Nic        | hotel Palma 11/8 sera - 18/8 mattina     | 2095€        | Nic, Omar, Peter |
 
 *La qt. totale va divisa equamente tra i debitori.
 
