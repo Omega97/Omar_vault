@@ -3,8 +3,5 @@
 
 [Connection (mathematics) - Wikipedia](https://en.wikipedia.org/wiki/Connection_\(mathematics\))
 
-
 [Holonomy - Wikipedia](https://en.wikipedia.org/wiki/Holonomy)
 
-
-Stone duality
