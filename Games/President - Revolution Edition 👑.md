@@ -1,38 +1,44 @@
 
 # **President: Revolution Edition**  
+
 *A Fast-Paced Climbing Card Game for 4–8 Players*  
 
 ---
 
 ### **Objective**  
+
 Be the first to play all the cards in your hand. The order in which players go out determines their title for the next round—and earns points toward victory. The first player to reach an **agreed-upon number of points** (like 10) wins the game.
 
 ---
 
-### **Components**  
+### **Components**
+
 - Two standard 52-card French decks + Jokers (optional but recommended)  
 
 > *Note: With two decks, duplicate cards (e.g., two Ace of Spades) are allowed and can be played together as pairs, triples, etc.*
 
 ---
 
-### **Setup**  
-1. Shuffle both decks (including Jokers) into one pile.  
-2. Deal **exactly 9 cards** to each player. Set aside any leftover cards—they are not used.  
-3. Players look at their hands in secret.  
+### **Setup**
+
+1. Shuffle the deck, and deal **exactly 10 cards** to each player. Set aside any leftover cards—they won't be used in this hand.
+2. Players look at their hands in secret, and they may re-arrange them in order of strength.
 
 ---
 
 ### **Card Rankings & Play Hierarchy**  
 
-#### **A. Rank Order (Normal Mode)**  
+
+#### **Rank Order**
+
 Cards rank from low to high as:  
 **3 < 4 < ... < 10 < J < Q < K < A < 2**  
 Jokers are **wild**—they can substitute for any card in a set and rank just above 2s.
 
 > *Note: A single Joker doesn't beat a single 2.*
 
-#### **B. Multi-Card Hierarchy**  
+#### **Multi-Card Hierarchy**  
+
 Plays are ranked **first by quantity**, then by card rank:  
 - Any **pair** beats any single  
 - Any **triple** beats any pair  
@@ -58,11 +64,13 @@ If a player plays **four cards of the same rank** (e.g., four 7s), a **Revolutio
 ### **Gameplay**  
 
 #### **Starting the First Trick**  
+
 - In Round 1, the player holding the **3 of Clubs** (or lowest card unavailable) starts.  
 - In later rounds, the **Scum** (last-place finisher) leads the first trick.
 
 #### **Playing a Trick**  
-1. The leader plays **1 to 4 cards of the same rank** (e.g., one 8, two Queens, three 4s).  
+
+1. The **leader** plays **1 to 4 cards of the same rank** (e.g., one 8, two Queens, three 4s).  
 2. Each subsequent player, in clockwise order, may:  
    - **Play a stronger set** of the same size (e.g., respond to two 6s with two 9s or better), **or**  
    - **Play a higher-tier set** (e.g., respond to a single King with any pair), **or**  
@@ -71,7 +79,8 @@ If a player plays **four cards of the same rank** (e.g., four 7s), a **Revolutio
 
 > *Important: You may only play from your hand—you cannot draw new cards during a round.*
 
-#### **Going Out**  
+#### **Going Out**
+
 As soon as a player plays their **last card**, they are **out** and assigned a title based on elimination order:  
   - 1st: **President**  
   - 2nd: **Vice-President**  
@@ -88,23 +97,24 @@ If you want to make the game more fun, you may role-play as the character of the
 
 ### **End of Round: Tribute & Scoring**  
 
-#### **Tribute Phase**  
-- The **Scum** gives their **two best cards** (by current rank) to the **President**.  
-- The **President** gives back **any two cards** from their hand to the Scum.  
-- In games with 4+ players:  
-  - **Vice-Scum** gives **one card** to **Vice-President**, who returns **one card**.
+#### **Tribute Phase**
 
-> *Tribute occurs after every round except the very first.*
+- ↔️↔️ The **Scum** gives their **two best cards** (by current rank) to the **President**, who gives back **any two cards** from their hand to the **Scum**.
+- ↔️ The **Peasant** (*vice-Scum*) gives **the best card** (by rank) to the **Vice-President**, who returns **any one card**.
+
+> *Tribute occurs at the beginning of the round, after the hand is dealt (**except for the first hand**)*
 
 #### **Scoring**  
+
 - **President**: +2 points  
 - **Vice-President**: +1 point  
 - All others: 0 points  
-- First player to reach **10 points** wins the game.
+- First player to reach **10 points** (or any agreed-upon amount) wins the game.
 
 ---
 
 ### **Strategy Tips**  
+
 - Make sure you can get rid of your lower-value cards; don't waste the best cards when there is a lot of action!
 - If you have a *Revolution* in hand, make sure to get rid of your highest-rank cards first!
 - When a player has few cards in hand, you can momentarily lock them out of play by playing combos bigger than their hand. Save the combos for the endgame!
