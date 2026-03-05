@@ -90,8 +90,9 @@
 | ---------- | ---------------------------------------- | ------------ | ---------------- |
 | Nic        | volo Barcellona -> Palma                 | 144€         | Nic, Omar, Peter |
 | Peter      | volo andata e ritorno                    | 305€         | Omar             |
-|            | hotel Barcellona 7/8 sera - 11/8 mattina |              |                  |
+| Nic        | hotel Barcellona 7/8 sera - 11/8 mattina | 970€         | Nic, Omar, Peter |
 | Nic        | hotel Palma 11/8 sera - 18/8 mattina     | 2095€        | Nic, Omar, Peter |
+
 
 *La qt. totale va divisa equamente tra i debitori.
 
