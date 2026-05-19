@@ -1,5 +1,5 @@
 
-# **President: Revolution Edition**  
+# **President: Revolution Edition**  👑
 
 *A Fast-Paced Climbing Card Game for 4–8 Players*  
 
@@ -7,7 +7,7 @@
 
 ### **Objective**  
 
-Be the first to play all the cards in your hand. The order in which players go out determines their title for the next round—and earns points toward victory. The first player to reach an **agreed-upon number of points** (like 10) wins the game.
+Be the first to play all the cards in your hand. The order in which players go out determines their title for the next round—and earns points toward victory. The first player to reach an **agreed-upon number of points** (like 3) wins the game.
 
 ---
 
@@ -21,12 +21,12 @@ Be the first to play all the cards in your hand. The order in which players go o
 
 ### **Setup**
 
-1. Shuffle the deck, and deal **exactly 10 cards** to each player. Set aside any leftover cards—they won't be used in this hand.
+1. Shuffle the deck, and deal **exactly 9 cards** to each player. Set aside any leftover cards—they won't be used in this hand.
 2. Players look at their hands in secret, and they may re-arrange them in order of strength.
 
 ---
 
-### **Card Rankings & Play Hierarchy**  
+### **Card Rankings & Play Hierarchy** 🪜
 
 
 #### **Rank Order**
@@ -61,7 +61,7 @@ If a player plays **four cards of the same rank** (e.g., four 7s), a **Revolutio
 
 ---
 
-### **Gameplay**  
+### **Gameplay** 🃏
 
 #### **Starting the First Trick**  
 
@@ -95,7 +95,7 @@ If you want to make the game more fun, you may role-play as the character of the
 
 ---
 
-### **End of Round: Tribute & Scoring**  
+### **End of Round: Tribute & Scoring** 🏅
 
 #### **Tribute Phase**
 
@@ -106,15 +106,20 @@ If you want to make the game more fun, you may role-play as the character of the
 
 #### **Scoring**  
 
-- **President**: +2 points  
-- **Vice-President**: +1 point  
+- **President**: +1 points  
 - All others: 0 points  
-- First player to reach **10 points** (or any agreed-upon amount) wins the game.
+- First player to reach **3 points** (or any agreed-upon amount) wins the game.
 
 ---
 
-### **Strategy Tips**  
+### **Strategy Tips** 🗺
 
 - Make sure you can get rid of your lower-value cards; don't waste the best cards when there is a lot of action!
 - If you have a *Revolution* in hand, make sure to get rid of your highest-rank cards first!
 - When a player has few cards in hand, you can momentarily lock them out of play by playing combos bigger than their hand. Save the combos for the endgame!
+
+---
+
+## Executive Privilege Variant 💎
+
+- After exchanging the cards among first and last player, each player may **discard** (face-down) **cards up to the number of points they have**.
