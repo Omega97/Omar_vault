@@ -1,3 +1,4 @@
+
 Here are some clarifications about the rules for the game of Poker32:
 - **Game Structure Clarification**: The game uses only one hole card per player (not two as in standard Texas Hold'em), and there's only one betting round.
 - **Card Representation**: Cards are represented as 2-10, J, Q, K, A. 
@@ -19,4 +20,7 @@ Here are some clarifications about the rules for the game of Poker32:
 - Create a Training class. 
     - This class trains the policy of the agent through self-play.
     - Choose any reinforcement learning paradigm you find most appropriate.
+
+---
+
 
