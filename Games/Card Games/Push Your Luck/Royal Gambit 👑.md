@@ -1,7 +1,7 @@
 
 # **Royal Gambit - "Guazzabuglio**"
 
-_A Push-Your-Luck Card Game of for 2+ players_
+_A Push-Your-Luck Party Game of for 2+ players_
 
 ---
 
@@ -24,7 +24,7 @@ There are three sets of cards: the *pointed cards*, the *bricks*, and the *royal
 
 #### Pointed Cards 🔵
 
-These cards are worth face-value.
+> These cards are worth face-value.
 
 | **Rank** | **Effect**   |
 | -------- | ------------ |
@@ -36,19 +36,24 @@ These cards are worth face-value.
 
 #### The Bricks 🧱
 
-These cards are not worth any points, but some of them have effects.
+> These cards are not worth any points, but some of them have effects.
 
 | Rank  | Effect                                                                                                                                        |
 | ----- | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| 6     | *brick*                                                                                                                                       |
+| 6     | *(Brick)*                                                                                                                                     |
 | **7** | **Lucky Seven 🍀**: You may target a player; they have to **give you a card** of **their** choice (but they can't make you go *bust*!).       |
 | **8** | **Hot Potato**🥔: You may target a player who does NOT have a face-up 6; **give them this card**. The game proceeds from the targeted player. |
-| 9     | *brick*                                                                                                                                       |
-| T     | you may target a player: add one card to their *draw pile*                                                                                    |
+| 9     | *(Brick)*                                                                                                                                     |
+| T     | You may target a player: add one card to their *draw pile*                                                                                    |
+Notes: 
+- *In general, you may only target only players that are still in the hand.*
+- *Effects activate only when **flipping** a card, not when it's stolen*
+- *All activated effects that target a player are optional*
+- *Cards cannot move owners if this makes them go bust (for example, if you already have a 6, you may steal from a player with a 6 and a 4, and they will have to give you the 4).*
 
 #### The Royal Family 👑
 
-You don't go *bust* with them. They are the most powerful cards in the game.
+> You don't go *bust* with them. They are the most powerful cards in the game.
 
 | Rank      | Effect                                                                                                                                                                          |
 | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -58,23 +63,17 @@ You don't go *bust* with them. They are the most powerful cards in the game.
 
 #### The Joker
 
-You don't go *bust* with Jokers. They help you complete *sets* to get extra points (check out the next section). 
+> You don't go *bust* with Jokers. They help you complete *sets* to get extra points (check out the next section). 
 
 | Rank         | Effect                                 |
 | ------------ | -------------------------------------- |
 | **Joker** 🤡 | Use it to complete one of your *sets*. |
 
-Notes: 
-- You may target only players that are still in the hand.*
-- *Effects activate only when **flipping** a card.*
-- *All activated effects that target a player are optional*
-- *Cards cannot move owners if this makes them go bust.*  
-
 ---
 
 ### **Sets** 🍱
 
-For each *set* you manage to complete, you will be rewarded with **extra points**, equal to the number of cards in the *set* (if you don't bust).
+For each *set* you manage to complete, you will be rewarded with **extra points**, equal to the number of cards in the *set*.
 
 | Set               | Cards         | Points |
 | ----------------- | ------------- | ------ |
@@ -100,9 +99,9 @@ This extra tension makes the player that just flipped a whole bunch of points st
 
 ### Staying
 
-At the beginning of your turn, first **you have to** flip the cards from your *draw pile* (if any), then you may choose to either *HIT* or *STAY*. If you *STAY*, the points that you currently have on the board make your final score, and you are now out of the hand (players cannot interact with you any more, nor change you points).
+At the beginning of your turn, first **you have to** flip the cards from your *draw pile* (if any), then you may choose to either *hit* or *stay*. If you *stay*, the points that you currently have on the board make your final score, and you are now out of the hand (players cannot interact with you any more, nor change you points).
 
-Remember, you may only *STAY* if you have more points than all the other players.
+Remember, you may only *stay* if you have more points than all the other players, **and** if you have **no cards** in you *draw pile*.
 
 ---
 
@@ -120,47 +119,35 @@ On your turn, you may **HIT** or **STAY**.
 
 The player with **most points** **wins the hand**.
 
+**_Cappotto_**: if everyone else *busted*, you win the hand, even with 0 points. This way, there is always a clear winner.
+
 ---
 
 ### **Going Bust 💥**
 
 You **Bust** the moment you have **two numbered cards of the same rank** (Ace through 10, not the figures) face-up on your side of the table.
 
-- **The Safe Cards:** Only numbered cards (A–10) cause a bust. The figures—**Jacks, Queens, and Kings**—are "Royal" and safe; you can collect as many of them as you like without ever risking a bust.
+- **The Safe Cards:** Only numbered cards (A–10) cause a bust. The **Jacks, Queens, Kings, and Jokers** are safe; you can collect as many of them as you like without ever risking a bust.
     
 - **The Penalty:** When you bust, your turn ends immediately and you score **0 points** for the hand.
-    
-- **Extra Life:** The **Queen** is your only protection against disaster. If you flip a duplicate card while you have a Queen face-up, cover the Queen and the duplicate card you just flipped, and keep playing.
 
 ---
 
-## 🏁 **Ending the Game**
+## 🏁 Winning the HAND
 
-- **Winning the HAND**: After all players *stayed* or have *busted*, the player with most points **wins the hand**.
-    
-- **_Cappotto_**: if everyone else *busted*, you win the hand, even with 0 points. 
-    
-- **Winning the GAME**: You may decide on a **set number of wins**. For example, the first player to win **3** hands, **wins the game**.
-
-**Winning the HAND**: After all players have _stayed_ or _busted_, the player with the highest score wins the hand—**but only if their total is strictly greater than every other player's total**. If two or more players are tied for the highest score, the hand is a draw (no one wins that hand).
-
----
-
-### Resolving Simultaneous Effects
-
-Sometimes, while resolving an action card, you will flip other action cards. In general, you should follow this procedure:
-
-> When an action card makes you flip cards, place them face-down at first (*due to be flipped flip*). Then, one by one, the players **actually** flip the cards, and the order is decided by the initial turn player.
+After all players *stayed* or have *busted*, the player with most points **wins the hand**.
 
 ---
 
 ## Variants
 
-- If you play with only one deck, you may want to shuffle the cards of the players back into the deck immediately as they go bust.
-    
-- You may add *house rules* for the other bricks, for example:
-	- 6: steal a card of your choice from the player with most points (no doubles)
-	- 9: make everyone gift you a card (no doubles, you decide the order)
-	- T: make everyone flip a card (in order, starting from the player after you)
+
+#### House rules
+- 6: steal a card of your choice from the player with most points (no doubles)
+- 9: make everyone gift you a card (no doubles, you decide the order)
+- T: make everyone else flip a card (in order, starting from the player after you)
+
+#### See the Future
+- Each player draws 6 cards, and they may rearrange them in any order, place them into the *draw pile*, and procede with the game. This variant is more strategic, as you have the chance to trick your opponents into stealing a double card from you.
 
 ---
